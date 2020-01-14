@@ -184,7 +184,7 @@ Prior to Deepavali, Hindu families clean and decorate their homes, where celebra
 
 ![Acting in a Play 1930s](/images/colourful-customs/Sub2-15-nativity-play.jpg)
 <div class="custom-caption">
-<div><p>Nativity Play, 1930s</p></div>
+<div><p>Nativity play, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
 <div>19980005526 – 0023</div>
 </div>
@@ -195,7 +195,7 @@ Christmas is a time for Christians to celebrate the birth of Jesus Christ. As pa
 
 ![Christmas Meal, 1953](/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates.jpg)
 <div class="custom-caption">
-<div><p>Christmas Meal of Expatriates, 1953</p></div>
+<div><p>Christmas meal of expatriates, 1953</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
 <div>20140000144 – 0016</div>
 </div>
