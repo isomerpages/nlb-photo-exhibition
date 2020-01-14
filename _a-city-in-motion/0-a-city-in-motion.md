@@ -314,7 +314,7 @@ Located along Keppel Road, Tanjong Pagar railway station served trains operated 
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005026 - 0026</div>
 </div>
-Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in England and incorporated Art Deco and Neo-Classical elements in its design.
+Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in Europe and incorporated Art Deco and Neo-Classical elements in its design.
 <p></p>
 <p></p>
 
