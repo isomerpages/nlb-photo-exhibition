@@ -35,7 +35,7 @@ merchant houses were also set up along the river to facilitate these activities.
 <p></p>
 <hr>
 
-![Cargo Ship, 1904-1910](/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river.jpg)
+![Cargo Ship near the mouth of the Singapore River, 1900s](/images/centres-of-commerce/Sub2-3-cargo-ship-near-the-mouth-of-singapore-river.jpg)
 <div class="custom-caption">
 <div><p>Cargo Ship near the mouth of the Singapore River, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -45,7 +45,7 @@ merchant houses were also set up along the river to facilitate these activities.
 <p></p>
 <hr>
 
-![Twakows on Singapore River, 1900s](/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr.jpg)
+![Twakows on the Singapore River, 1900s](/images/centres-of-commerce/Sub2-4-twakows-on-singapore-river-cr.jpg)
 <div class="custom-caption">
   <div><p><i>Twakows</i> on the Singapore River, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -57,7 +57,7 @@ _Twakows_ were bumboats used to transport supplies and goods from anchored ships
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A twakow laden with cargo in Singapore River, 1925](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
+![A twakow laden with cargo in Singapore harbour, 1925](/images/centres-of-commerce/Sub2-5-a-twakow-laden-with-cargo-in-singapore-harbour-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>A <i>twakow</i> laden with cargo in Singapore harbour, 1925</p></div>
@@ -78,7 +78,7 @@ Boat Quay, located on the southern bank of the Singapore River, was one of the f
 <p></p>
 <hr>
 
-![Boat Quay, 1927-1929](/images/centres-of-commerce/Sub2-7-boat-quay-cr.jpg)
+![Boat Quay, 1920s](/images/centres-of-commerce/Sub2-7-boat-quay-cr.jpg)
 <div class="custom-caption">
 <div><p>Boat Quay, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -88,7 +88,7 @@ Boat Quay, located on the southern bank of the Singapore River, was one of the f
 <p></p>
 <hr>
 
-![Clarke Quay along Singapore River, 1890s](/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay.jpg)
+![Singapore River near Clarke Quay, 1890s](/images/centres-of-commerce/Sub2-8-singapore-river-near-clarke-quay.jpg)
 <div class="custom-caption">
 <div><p>Singapore River near Clarke Quay, 1890s</p></div>
 <div>Lee Kip Lin Collection</div>
@@ -98,7 +98,7 @@ Located further upstream along the Singapore River from Boat Quay, Clarke Quay w
 <p></p>
 <hr>
 
-![Godown of Green Island Cement Company limited, 1930s](/images/centres-of-commerce/Sub2-9-godown-cr.jpg)
+![Godown, 1930s](/images/centres-of-commerce/Sub2-9-godown-cr.jpg)
 <div class="custom-caption">
 <div><p>Godown, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

@@ -10,7 +10,7 @@ Along with the influx of different migrant communities came numerous forms of le
 ![---](/images/partition.jpg)
 
 <p class="portrait-resize" markdown="1">
-![Chinese Wayang Actors, 1890s](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
+![Chinese opera actors, 1890s](/images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Chinese opera actors, 1890s</p></div>
@@ -22,7 +22,7 @@ Chinese opera performed on the street was a popular form of entertainment in Sin
 <p></p>
 <hr>
 
-![Bangsawan opera,1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
+![Bangsawan opera, 1930s](/images/all-walks-of-life/Sub2-2-bangsawan-opera.jpg)
 <div class="custom-caption">
 <div><p>Bangsawan opera,1930s</p></div>
 <div>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</div>
@@ -55,7 +55,7 @@ When Indian immigrants came to Singapore in the 19th century, they brought along
 <p></p>
 <hr>
 
-![Christmas Party, Singapore 1928 ](/images/all-walks-of-life/Sub2-5-fancy-dress-party.jpg)
+![Fancy dress party, 1928](/images/all-walks-of-life/Sub2-5-fancy-dress-party.jpg)
 <div class="custom-caption">
 <div><p>Fancy dress party, 1928</p></div>
 <div>Stanley T Tanner Collection, courtesy of National Archives of Singapore</div>
@@ -66,7 +66,7 @@ Dinner parties were important social events and entertainment for European resid
 <p></p>
 <hr>
 
-![Raffles College “Let’s Dance” Session, 1948](/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing.jpg)
+![Raffles College students dancing, 1948](/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing.jpg)
 <div class="custom-caption">
 <div><p>Raffles College students dancing, 1948</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -77,7 +77,7 @@ Tea dances were once a popular social pastime in Singapore. In the 1920s, major 
 <p></p>
 <hr>
 
-![Photograph of guests during a race at Farrer Park Racecourse, 1930](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
+![Spectators at Farrer Park Racecourse, 1930](/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr.jpg)
 <div class="custom-caption">
 <div><p>Spectators at Farrer Park Racecourse, 1930</p></div>
 <div>Margaret Clarke Collection, courtesy of National Archives of Singapore</div>
@@ -88,7 +88,7 @@ Horse racing was introduced to Singapore by the British. Built in 1842, the firs
 <p></p>
 <hr>
 
-![Children at play along the beach in Singapore, 1930s](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
+![A family at a beach house, 1920s](/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr.jpg)
 <div class="custom-caption">
 <div><p>A family at a beach house, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -99,7 +99,7 @@ Being a tropical island, it is no surprise that swimming and beach-going became 
 <p></p>
 <hr>
 
-![Swimming competition, 1920-40](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
+![Swimming competition, 1930s](/images/all-walks-of-life/Sub2-9-swimming-competition.jpg)
 <div class="custom-caption">
 <div><p>Swimming competition, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -110,7 +110,7 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <p></p>
 <hr>
 
-![Hunting party at Choa Chu Kang Village, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
+![Hunting party, 1930](/images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg)
 <div class="custom-caption">
 <div><p>Hunting party, 1930</p></div>
 <div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>

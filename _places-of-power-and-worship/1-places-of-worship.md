@@ -46,7 +46,7 @@ with the Chinese characters “波靖南溟” (_bo jing nan ming_), which trans
 <p></p>
 <hr>
 
-![Wak Hai Cheng Bio, a Teochew temple at Phillip street, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
+![Yueh Hai Ching Temple, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
 <div class="custom-caption">
 <div><p>Yueh Hai Ching Temple, 1955</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
@@ -147,7 +147,7 @@ worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapo
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+![Chapel of the Convent of the Holy Infant Jesus, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Chapel of the Convent of the Holy Infant Jesus, 1900s</p></div>
@@ -161,7 +161,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+![Interior of the Convent of the Holy Infant Jesus Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Interior of the Convent of the Holy Infant Jesus Chapel, 1900s</p></div>

@@ -53,7 +53,7 @@ Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and
 
 ![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
 <div class="custom-caption">
-<div><p>Shopfront of John Little & Co., 1890s</p></div>
+<div><p>Shopfront of John Little &amp; Co., 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 
@@ -61,7 +61,7 @@ Founded in 1842, John Little was Singapore's oldest department store. Often adve
 
 <hr>
 
-![Interior of John Little, 1905](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
+![Interior of John Little, c.1910s](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
 <div class="custom-caption">
 <div><p>Interior of John Little, c.1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -72,7 +72,7 @@ This photograph shows the main stairs of John Little’s new three-storey buildi
 
 <hr>
 
-![High Street, 1924-1930](/images/Sub2-7-High-Street.jpg)
+![High Street, 1920s](/images/Sub2-7-High-Street.jpg)
 <div class="custom-caption">
 <div><p>High Street, 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -114,7 +114,7 @@ The Raffles Library and Museum was opened to the public in 1887 and quickly beca
 
 <hr>
 
-![Interior of Raffles Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
+![Interior of Raffles Library and Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
 <div class="custom-caption">
 <div><p>Interior of Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>

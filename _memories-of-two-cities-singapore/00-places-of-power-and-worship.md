@@ -6,7 +6,7 @@ breadcrumb: Places of Power and Worship
 collection_name: memories-of-two-cities-singapore
 ---
 
-![View of Istana Tyersall from Botanical Gardens](/images/power-and-worship/power-and-worship-banner.jpg)
+![Government House, 1899](/images/power-and-worship/power-and-worship-banner.jpg)
 
 ### **Places of Power and Worship** 
 Singapore’s history can be traced back to at least the 14th century, when it was already a flourishing port on the ancient maritime trade routes between China, Southeast Asia and India. Known as Temasek or Singapura, the port had economic relations with the Srivijaya and Majapahit empires, China and India. The island subsequently came under the control of the Melaka Sultanate and the Johor Sultanate, until it was founded as a British trading post in 1819. Sites associated with past rulers and seats of British colonial power layered upon one another, testifying to Singapore’s long and colourful history.

@@ -56,7 +56,7 @@ Samsui women, with their trademark red headdress, were female migrant workers ma
 <p></p>
 <hr>
 
-![Group of chinese hawkers, Singapore, 1915](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
+![Street hawkers, 1910s](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
 <div class="custom-caption">
 <div><p>Street hawkers, 1910s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
@@ -67,7 +67,7 @@ Working as an itinerant street hawker was a common occupation among unskilled ea
 <p></p>
 <hr>
 
-![Street Hawker, Singapore 1920s](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
+![Street Hawkers, 1920s](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
 <div class="custom-caption">
 <div><p>Street Hawkers, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -79,7 +79,7 @@ Hawkers were frequently found along busy streets and intersections peddling cook
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Malay hawker with his portable shop selling satay, Singapore, 1907](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
+![Satay hawker, 1900s](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Satay hawker, 1900s</p></div>
@@ -92,7 +92,7 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Pavement based occupation – hawker selling tidbits (Kachang Putih), 1900](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
+![Hawker selling snacks, 1900s](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Hawker selling snacks, 1900s</p></div>
@@ -127,7 +127,7 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 <p></p>
 <hr>
 
-![Interior of office. The photo was taken between 1920 and 1929.](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
+![Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
 <div>Collection ABN AMRO Art & History Department, Amsterdam, courtesy of National Archives of Singapore</div>

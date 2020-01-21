@@ -6,7 +6,7 @@ breadcrumb: Centres of Commerce
 collection_name: memories-of-two-cities-singapore
 ---
 
-![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/commerce-banner.jpg)
+![Raffles Place seen from Chartered Bank, 1920s](/images/centres-of-commerce/commerce-banner.jpg)
 ### **Centres of Commerce**
 
 The importance of Singapore and its surrounding waterways has for centuries been due to its role in regional and international maritime trade. The mouth of the Singapore River leads to the Straits of Singapore, which together with the Straits of Melaka, is a major shipping route linking the Indian Ocean to the South China Sea.
