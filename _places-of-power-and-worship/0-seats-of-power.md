@@ -33,7 +33,7 @@ Fort Canning was one of Singapore’s first British-built fortifications. Its pu
 <p></p>
 <hr>
 
-![View of town from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
+![View from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
 <div class="custom-caption">
 <div><p>View from Fort Canning Hill, 1870s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
@@ -54,7 +54,7 @@ After the old Government House on Government Hill (now Fort Canning Hill) was de
 <p></p>
 <hr>
 
-![Government House, 1890s](/images/power-and-worship/Sub1-7-government-house.jpg)
+![Government House, 1899](/images/power-and-worship/Sub1-7-government-house.jpg)
 <div class="custom-caption">
 <div><p>Government House, 1899</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
