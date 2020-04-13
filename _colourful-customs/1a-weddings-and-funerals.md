@@ -4,6 +4,8 @@ title: Weddings and Funerals
 permalink: /memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/
 breadcrumb: Weddings and Funerals
 collection_name: colourful-customs
+second_nav_title: "Colourful Customs"
+
 ---
 
 In early Singapore, people accorded great importance to the observance of customs during life events such as weddings and funerals. Often, these events involved elaborate practices and attracted spectators.  
@@ -15,7 +17,7 @@ Rich in symbolism and meaning, rites of passage reinforced the traditional value
 <p></p>
 ![---](/images/partition.jpg)
 
-![Malay Nights, 1938](/images/colourful-customs/Sub1-1-malay-wedding.jpg)
+![Malay wedding, 1938](/images/colourful-customs/Sub1-1-malay-wedding.jpg)
 <div class="custom-caption">
 <div><p>Malay wedding, 1938</p></div>
 <div>Robert Hebblewhite Collection, courtesy of National Archives of Singapore</div>
@@ -37,7 +39,7 @@ The traditional Malay wedding ceremony would begin with the groom fetching the b
 <p></p>
 <hr>
 
-![A Straits Chinese wedding photo, 1925](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
+![Peranakan wedding, 1925](/images/colourful-customs/Sub1-4-peranakan-wedding-cr.jpg)
 <div class="custom-caption">
 <div><p>Peranakan wedding, 1925</p></div>
 <div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
@@ -48,7 +50,7 @@ The Peranakans, or Straits Chinese, are descendants of Chinese immigrants who ma
 <p></p>
 <hr>
 
-![View of a Chinese wedding procession 1909](/images/colourful-customs/Sub1-5-peranakan-wedding-procession.jpg)
+![Peranakan wedding procession, 1909](/images/colourful-customs/Sub1-5-peranakan-wedding-procession.jpg)
 <div class="custom-caption">
 <div><p>Peranakan wedding procession, 1909</p></div>
 <div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
@@ -73,7 +75,7 @@ Peranakan wedding costumes feature brilliant colours and ornate decorations. The
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Studio photograph of a Chinese wedding couple, 1920](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
+![Chinese wedding couple, 1920s](/images/colourful-customs/Sub1-7-chinese-wedding-couple.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Chinese wedding couple, 1920s</p></div>
@@ -86,7 +88,7 @@ This couple’s costumes reflect Western influence on wedding customs in Singapo
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![An Indian wedding held at a Hindu temple in Serangoon Road 1961](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
+![Indian wedding at a Hindu temple, 1961](/images/colourful-customs/Sub1-8-indian-wedding-at-a-hindu-temple.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Indian wedding at a Hindu temple, 1961</p></div>
@@ -99,7 +101,7 @@ The Indian community in Singapore practises a wide range of wedding customs, var
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![An Indian wedding procession at the Sri Krishnan temple in Waterloo Street, 1962](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
+![Indian wedding procession at a Hindu temple, 1962](/images/colourful-customs/Sub1-9-indian-wedding-procession-at-a-hindu-temple.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Indian wedding procession at a Hindu temple, 1962</p></div>
@@ -111,7 +113,7 @@ Music is an integral element of Hindu weddings. The _thavil_ (a barrel-shaped dr
 <p></p>
 <hr>
 
-![Eurasian wedding group 1920s](/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait.jpg)
+![Eurasian wedding studio portrait, 1920s](/images/colourful-customs/Sub1-10-eurasian-wedding-studio-portrait.jpg)
 <div class="custom-caption">
 <div><p>Eurasian wedding studio portrait, 1920s</p></div>
 <div>Francis Lee Collection, courtesy of National Archives of Singapore</div>
@@ -122,7 +124,7 @@ Eurasians, who are predominantly Christian, held their weddings in churches. See
 <p></p>
 <hr>
 
-![Malay funeral, Singapore 1900s](/images/colourful-customs/Sub1-11-malay-funeral.jpg)
+![Malay funeral, 1900s](/images/colourful-customs/Sub1-11-malay-funeral.jpg)
 <div class="custom-caption">
 <div><p>Malay funeral, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -133,7 +135,7 @@ Traditional Malay funerals, which follow Islamic rites in accordance with syaria
 <p></p>
 <hr>
 
-![Chinese Funeral, Singapore 1900s](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
+![Chinese funeral, 1900s](/images/colourful-customs/Sub1-12-chinese-funeral.jpg)
 <div class="custom-caption">
 <div><p>Chinese funeral, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -144,7 +146,7 @@ Funeral rites were an important part of Chinese social life. They reflected the 
 <p></p>
 <hr>
 
-![Chinese funeral, 1911](/images/colourful-customs/Sub1-13-chinese-funeral.jpg)
+![Chinese funeral, 1910s](/images/colourful-customs/Sub1-13-chinese-funeral.jpg)
 <div class="custom-caption">
 <div><p>Chinese funeral, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -155,7 +157,7 @@ In this elaborate funeral cortege, the hearse is drawn by two horses and accompa
 <p></p>
 <hr>
 
-![A Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg)
+![Hindu funeral procession, 1938](/images/colourful-customs/Sub1-14-hindu-funeral-procession-cr.jpg)
 <div class="custom-caption">
 <div><p>Hindu funeral procession, 1938</p></div>
 <div>National Museum of Singapore Collection</div>

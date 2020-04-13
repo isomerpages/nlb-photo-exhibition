@@ -4,6 +4,8 @@ title: Places of Worship
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/
 breadcrumb: Places of Worship
 collection_name: places-of-power-and-worship
+second_nav_title: "Places of Power and Worship"
+
 ---
 Migrant society in early Singapore was characterised by religious diversity. Immigrants from China, India and the Malay Archipelago brought their religious beliefs and established their respective places of worship. Europeans and Western missionaries set up churches, schools and printing presses. Major religions of the world were represented on the island, with Buddhism, Taoism, Islam, Hinduism and Christianity as the major religions of the population. Apart from catering to the spiritual needs of immigrants, these institutions also served as social hubs, playing an important role in people’s lives.
 
@@ -46,7 +48,7 @@ with the Chinese characters “波靖南溟” (_bo jing nan ming_), which trans
 <p></p>
 <hr>
 
-![Wak Hai Cheng Bio, a Teochew temple at Phillip street, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
+![Yueh Hai Ching Temple, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
 <div class="custom-caption">
 <div><p>Yueh Hai Ching Temple, 1955</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
@@ -147,7 +149,7 @@ worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapo
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+![Chapel of the Convent of the Holy Infant Jesus, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Chapel of the Convent of the Holy Infant Jesus, 1900s</p></div>
@@ -161,7 +163,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Interior of the Convent of the Holy Infant Jesus’ Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
+![Interior of the Convent of the Holy Infant Jesus Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Interior of the Convent of the Holy Infant Jesus Chapel, 1900s</p></div>

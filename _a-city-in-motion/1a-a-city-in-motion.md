@@ -4,6 +4,8 @@ title: A City in Motion
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
 breadcrumb: A City in Motion
 collection_name: a-city-in-motion
+second_nav_title: "A City in Motion"
+
 ---
 
 ![Rickshaw puller, c.1910](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
@@ -39,7 +41,7 @@ Seen here is a street in Chinatown, where many Rickshaw pullers typically lived 
 <p></p>
 <hr>
 
-![A hackney drawn by a horse, 1800s](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
+![Horse-drawn carriage, 1800s](/images/city-in-motion/Sub1-4-hackney-drawn-by-a-horse-cr.jpg)
 <div class="custom-caption">
 <div><p>Horse-drawn carriage, 1800s</p></div>
 <div>Collection of Nationaal Museum van Wereldculturen (Coll.no. RV-A128-0021), courtesy of National Archives of Singapore</div>
@@ -74,7 +76,7 @@ In 19th-century Singapore, taking an evening ride in one’s carriage around tow
 <p></p>
 <hr>
 
-![Bullock Cart, 1910](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
+![Bullock Cart, 1910s](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
 <div class="custom-caption">
 <div><p>Bullock cart, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -85,7 +87,7 @@ Bullock-drawn carts were one of the earliest modes of transport in Singapore. Pr
 <p></p>
 <hr>
 
-![Water-car, 1906](/images/city-in-motion/Sub1-8-water-car.jpg)
+![Bullock cart, 1900s](/images/city-in-motion/Sub1-8-water-car.jpg)
 <div class="custom-caption">
 <div><p>Bullock cart, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -97,7 +99,7 @@ from domestic and commercial use, water was also used to settle dust raised by v
 <p></p>
 <hr>
 
-![Street Scene, 1900s](/images/city-in-motion/Sub1-9-street-scene.jpg)
+![Street scene with rickshaw, bullock cart and hawker, 1900s](/images/city-in-motion/Sub1-9-street-scene.jpg)
 <div class="custom-caption">
 <div><p>Street scene with rickshaw, bullock cart and hawker, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -120,7 +122,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A trishaw rider and his passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
+![Trishaw rider and passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Trishaw rider and passenger, 1961</p></div>
@@ -131,7 +133,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-![A tram car, 1902](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
+![Tram car, 1900s](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
 <div class="custom-caption">
 <div><p>Tram car, 1900s</p></div>
 <div>F W York Collection, courtesy of National Archives of Singapore</div>
@@ -143,7 +145,7 @@ Despite heavy competition from rickshaws and bullock carts, trams carried an ave
 <p></p>
 <hr>
 
-![Tram car in motion along Tanjong Katong, 1910s](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
+![Tram car in Tanjong Katong, 1910s](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
 <div class="custom-caption">
 <div><p>Tram car in Tanjong Katong, 1910s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -154,7 +156,7 @@ In 1902, municipal authorities passed the Tramways Ordinance, giving Singapore E
 <p></p>
 <hr>
 
-![Local traffic, 1926-1930](/images/city-in-motion/Sub1-15-local-traffic.jpg)
+![Traffic at the junction of Hill Street and Stamford Road, 1920s](/images/city-in-motion/Sub1-15-local-traffic.jpg)
 <div class="custom-caption">
 <div><p>Traffic at the junction of Hill Street and Stamford Road, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -165,7 +167,7 @@ Trolley buses were the first local bus services introduced by the Singapore Trac
 <p></p>
 <hr>
 
-![Commuters boarding trolley bus at Collyer Quay, 1946](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
+![Commuters boarding a trolley bus at Collyer Quay, 1946](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
 <div class="custom-caption">
 <div><p>Commuters boarding a trolley bus at Collyer Quay, 1946</p></div>
 <div>Roland Craske Collection, courtesy of National Archives of Singapore</div>
@@ -175,7 +177,7 @@ Trolley buses were the first local bus services introduced by the Singapore Trac
 <p></p>
 <hr>
 
-![A trolley bus, 1930](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
+![Trolley bus, 1930](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
 <div class="custom-caption">
 <div><p>Trolley bus, 1930</p></div>
 <div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
@@ -197,7 +199,7 @@ The first motorcar was brought into Singapore in 1894. It likely started a craze
 <p></p>
 <hr>
 
-![Passengers in a car at MacRitichie reservoir, 1920-1940](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
+![Outing by car at MacRitichie Reservoir, 1920s](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
 <div class="custom-caption">
 <div><p>Outing by car at MacRitichie Reservoir, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -208,7 +210,7 @@ In the early 20th century, cars were marketed as a luxury good and a symbol of w
 <p></p>
 <hr>
 
-![Vintage car with passengers at North Bridge Road, 1920s-1940s](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
+![Motor car with female driver and passengers, 1920s](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
 <div class="custom-caption">
 <div><p>Motor car with female driver and passengers, 1920s</p></div>
 <div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
@@ -219,7 +221,7 @@ Women driving cars, as seen here, was a rare sight in early Singapore, and indic
 <p></p>
 <hr>
 
-![Traffic policeman, 1930-1934](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
+![Traffic policeman, 1930s](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
 <div class="custom-caption">
 <div><p>Traffic policeman, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -231,7 +233,7 @@ seen in their distinctive uniforms directing traffic at busy road junctions.
 <p></p>
 <hr>
 
-![Traffic constable, 1930s](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
+![Traffic policeman, 1930s](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
 <div class="custom-caption">
 <div><p>Traffic policeman, 1930s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
@@ -243,7 +245,7 @@ their backs, which helped them to direct traffic at road junctions.
 <p></p>
 <hr>
 
-![A traffic policeman guiding vehicles at road junction, 1950s](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
+![A traffic policeman guiding vehicles at a junction, 1950s](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
 <div class="custom-caption">
 <div><p>A traffic policeman guiding vehicles at a junction, 1950s</p></div>
 <div>Singapore Police Force Collection, courtesy of National Archives of Singapore</div>
@@ -275,7 +277,7 @@ The Singapore-Kranji Railway opened in 1903 and ran between Tank Road and Kranji
 <p></p>
 <hr>
 
-![Tank Road Station, 1923](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
+![Tank Road station, 1920s](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
 <div class="custom-caption">
 <div><p>Tank Road station, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -286,7 +288,7 @@ Tank Road railway station, located near Fort Canning, served as the main terminu
 <p></p>
 <hr>
 
-![Bukit Timah railway station, 1905](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
+![Bukit Timah station, 1900s](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
 <div class="custom-caption">
 <div><p>Bukit Timah station, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -297,7 +299,7 @@ Bukit Timah railway station comprised simple, unadorned brick buildings with gab
 <p></p>
 <hr>
 
-![Tanjong Pagar railway station, 1940](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
+![Tanjong Pagar station, 1940](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
 <div class="custom-caption">
 <div><p>Tanjong Pagar station, 1940</p></div>
 <div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
@@ -308,13 +310,13 @@ Located along Keppel Road, Tanjong Pagar railway station served trains operated 
 <p></p>
 <hr>
 
-![Tanjong Pagar railway station, 1930s](/images/city-in-motion/Sub1-29-railway-station.jpg)
+![Tanjong Pagar station, 1930s](/images/city-in-motion/Sub1-29-railway-station.jpg)
 <div class="custom-caption">
 <div><p>Tanjong Pagar station, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005026 - 0026</div>
 </div>
-Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in England and incorporated Art Deco and Neo-Classical elements in its design.
+Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in Europe and incorporated Art Deco and Neo-Classical elements in its design.
 <p></p>
 <p></p>
 

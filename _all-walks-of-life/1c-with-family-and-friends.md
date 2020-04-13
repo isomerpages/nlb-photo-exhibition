@@ -4,6 +4,8 @@ title: With Family and Friends
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/
 breadcrumb: With Family and Friends
 collection_name: all-walks-of-life
+second_nav_title: "All Walks of Life"
+
 ---
 British traveller and writer Isabella Bird wrote of Singapore in 1879: ‘a city ablaze with colour and motley with costume…every Oriental costume from the Levant to China floats through the streets’. Early Singapore was a melting pot of cultures and one’s cultural identity was often apparent in the costumes he or she wore.  
 
@@ -36,7 +38,7 @@ The women here are wearing the distinctive Malay _baju kurung_ dress, which com
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Studio portrait of a Malay man and child, 1910-1930](/images/all-walks-of-life/Sub3-3-indian-muslim-man-and-child.jpg)
+![Jawi Peranakan man and child, 1910s–1930s](/images/all-walks-of-life/Sub3-3-indian-muslim-man-and-child.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Jawi Peranakan man and child, 1910s–1930s</p></div>
@@ -61,7 +63,7 @@ The Straits Chinese, or Peranakans (‘local born’ in Malay), are descendants 
 <p></p>
 <hr>
 
-![Studip portrait of a Straits Chinese family, 1920-45](/images/all-walks-of-life/Sub3-5-straits-chinese-family.jpg)
+![Straits Chinese family, 1920s](/images/all-walks-of-life/Sub3-5-straits-chinese-family.jpg)
 <div class="custom-caption">
 <div><p>Straits Chinese family, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -85,7 +87,7 @@ Before 1911, Chinese in Singapore, especially those who were born in China, foll
 <p></p>
 <hr>
 
-![Studio portrait of a family, 1910-30](/images/all-walks-of-life/Sub3-7-studio-portrait-of-a-family.jpg)
+![Chinese family, 1920s](/images/all-walks-of-life/Sub3-7-studio-portrait-of-a-family.jpg)
 <div class="custom-caption">
 <div><p>Chinese family, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -99,7 +101,7 @@ Most of the men here are clothed in _samfu_, a two-piece attire comprising a shi
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Hindu family, Singapore 1890s](/images/all-walks-of-life/Sub3-8-indian-family.jpg)
+![Indian family, 1890s](/images/all-walks-of-life/Sub3-8-indian-family.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Indian family, 1890s</p></div>
@@ -124,7 +126,7 @@ While the majority of Indians were Hindus, some were Christian or Muslim. This f
 <p></p>
 <hr>
 
-![Studio photograph of an Eurasian family, 1910-25](/images/all-walks-of-life/Sub3-10-eurasian-family-cr.jpg)
+![Eurasian family, 1910s](/images/all-walks-of-life/Sub3-10-eurasian-family-cr.jpg)
 <div class="custom-caption">
 <div><p>Eurasian family, 1910s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -138,7 +140,7 @@ The apparel of this family is a mix of Western and Asian garments. While the res
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Studio portrait of a family, 1900-1930](/images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah.jpg)
+![European family with Chinese amah, 1900s](/images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah.jpg)
 </p>
 <div class="custom-caption">
 <div><p>European family with Chinese <i>amah</i>, 1900s</p></div>

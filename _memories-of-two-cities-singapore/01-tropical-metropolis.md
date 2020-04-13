@@ -5,7 +5,7 @@ permalink: /memories-of-two-cities-singapore/tropical-metropolis/
 breadcrumb: Tropical Metropolis
 collection_name: memories-of-two-cities-singapore
 ---
-![NLB Photo Exhibition - Collyer Quay](/images/tropical-metropolis-banner.jpg)
+![Singapore waterfront, 1930s](/images/tropical-metropolis-banner.jpg)
 ### **Tropical Metropolis**
 
 Modern Singapore is a metropolis on all counts. But in the early 19th century, the island was already an important hub. From 1832 to 1946, Singapore was the administrative centre of the Straits Settlements, comprising Penang, Malacca and Singapore. Thanks to its strategic location, Singapore was also an entrepot trade hub. Following the opening of the Suez Canal in 1869, the island became a major port of call – ships from Europe and India sailing to East Asia, or vice versa, would pass through Singapore. Given its political and commercial importance, Singapore’s development as a metropolis was given great impetus. As a tropical island located at the confluence of cultures, the city exuded a distinctive cosmopolitan atmosphere. This section showcases early Singapore’s administrative and commercial centres, as well as its leisure and hospitality amenities.

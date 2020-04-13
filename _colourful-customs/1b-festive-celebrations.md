@@ -4,6 +4,8 @@ title: Festive Celebrations
 permalink: /memories-of-two-cities-singapore/colourful-customs/festive-celebrations/
 breadcrumb: Festive Celebrations
 collection_name: colourful-customs
+second_nav_title: "Colourful Customs"
+
 ---
 
 One of the highlights of living in Singapore is experiencing the festivals of its various ethnic and religious communities throughout the year. 
@@ -15,7 +17,7 @@ Over time, these festivals became annual highlights, eagerly anticipated and cel
 <p></p>
 ![---](/images/partition.jpg)
 
-![View of Malay Boats at the New Year Regatta, Singapore 1905](/images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta.jpg)
+![View of Malay Boats at the New Year Regatta, 1905](/images/colourful-customs/Sub2-1-view-of-malay-boats-at-the-new-year-regatta.jpg)
 <div class="custom-caption">
 <div><p>View of Malay boats at the New Year Regatta, 1905</p></div>
 <div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
@@ -38,7 +40,7 @@ The Tamil community celebrates Pongal, a four-day-long harvest festival to give 
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Reunion dinner during the eve of Chinese lunar new year, 1955](/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year.jpg)
+![Reunion dinner on the eve of Chinese New Year, 1955](/images/colourful-customs/Sub2-3-reunion-dinner-on-the-eve-of-chinese-new-year.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Reunion dinner on the eve of Chinese New Year, 1955</p></div>
@@ -51,7 +53,7 @@ The Chinese partake in the reunion dinner on the eve of the new year in the luna
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![A lion dance performed along Smith Street in Chinatown, 1951](/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown.jpg)
+![Lion dance on Smith Street, Chinatown, 1951](/images/colourful-customs/Sub2-4-lion-dance-on-smith-street-chinatown.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Lion dance on Smith Street, Chinatown, 1951</p></div>
@@ -75,7 +77,7 @@ Chingay (妆艺) originated from an ancient Chinese practice where performers an
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Thaipusam celebration, 1930s](/images/colourful-customs/Sub2-6-thaipusam-celebration.jpg)
+![Thaipusam Celebration, 1930s](/images/colourful-customs/Sub2-6-thaipusam-celebration.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Thaipusam Celebration, 1930s</p></div>
@@ -88,7 +90,7 @@ Thaipusam is a Hindu festival celebrated by the Tamil community. It is a day of 
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![An Indian devotee at the Thaipusam festival, 1934](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr.jpg)
+![Kavadi-bearer at Thaipusam festival, 1934](/images/colourful-customs/Sub2-7-kavadi-bearer-at-thaipusam-festival-cr.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Kavadi-bearer at Thaipusam festival, 1934</p></div>
@@ -100,7 +102,7 @@ During Thaipusam, devotees would carry kavadis in a procession that starts at Sr
 <p></p>
 <hr>
 
-![Hari Raya Puasa Festive Shopping, 1965](/images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping.jpg)
+![Hari Raya Aidilfitri festive shopping, 1965](/images/colourful-customs/Sub2-8-hari-raya-aidilfitri-festive-shopping.jpg)
 <div class="custom-caption">
 <div><p>Hari Raya Aidilfitri festive shopping, 1965</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
@@ -110,7 +112,7 @@ Hari Raya Aidilfitri, also known as Hari Raya Puasa, is a major Muslim festival 
 <p></p>
 <p></p>
 
-![Muslim worshippers outside Sultan Abu Bakar Mosque Johore Bahru during Hari Raya, 1950s](/images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya.jpg)
+![Worshippers at a mosque during Hari Raya, 1950](/images/colourful-customs/Sub2-9-worshippers-at-a-mosque-during-hari-raya.jpg)
 <div class="custom-caption">
 <div><p>Worshippers at a mosque during Hari Raya, 1950</p></div>
 <div>Arthur B Reich Collection, courtesy of National Archives of Singapore</div>
@@ -145,7 +147,7 @@ The Chinese community celebrates the Mid-Autumn Festival, which started as a har
 <p></p>
 <hr>
 
-![Moon cake seller, 1951](/images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival.jpg)
+![Buying mooncakes for Mid-Autumn Festival, 1951](/images/colourful-customs/Sub2-12-buying-mooncakes-for-mid-autumn-festival.jpg)
 <div class="custom-caption">
 <div><p>Buying mooncakes for Mid-Autumn Festival, 1951</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
@@ -170,7 +172,7 @@ Deepavali or Diwali, also known as the festival of lights, is celebrated by Hind
 <hr>
 
 <p class="portrait-resize" markdown="1">
-![Deepavali, 1963](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg)
+![Hindu family celebrating Deepavali at home, 1963](/images/colourful-customs/Sub2-14-hindu-family-celebrating-deepavali-at-home.jpg)
 </p>
 <div class="custom-caption">
 <div><p>Hindu family celebrating Deepavali at home, 1963</p></div>
@@ -182,9 +184,9 @@ Prior to Deepavali, Hindu families clean and decorate their homes, where celebra
 <p></p>
 <hr>
 
-![Acting in a Play 1930s](/images/colourful-customs/Sub2-15-nativity-play.jpg)
+![Nativity play, 1930s](/images/colourful-customs/Sub2-15-nativity-play.jpg)
 <div class="custom-caption">
-<div><p>Nativity Play, 1930s</p></div>
+<div><p>Nativity play, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
 <div>19980005526 – 0023</div>
 </div>
@@ -193,9 +195,9 @@ Christmas is a time for Christians to celebrate the birth of Jesus Christ. As pa
 <p></p>
 <hr>
 
-![Christmas Meal, 1953](/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates.jpg)
+![Christmas meal of expatriates, 1953](/images/colourful-customs/Sub2-16-christmas-meal-of-expatriates.jpg)
 <div class="custom-caption">
-<div><p>Christmas Meal of Expatriates, 1953</p></div>
+<div><p>Christmas meal of expatriates, 1953</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
 <div>20140000144 – 0016</div>
 </div>
@@ -204,7 +206,7 @@ Apart from its religious significance to Christians, Christmas is also a time to
 <p></p>
 <hr>
 
-![Christmas carollers singing at Presbyterian Church ground, 1951](/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church.jpg)
+![Christmas carollers singing at church, 1951](/images/colourful-customs/sub2-17-christmas-carollers-singing-at-church.jpg)
 <div class="custom-caption">
 <div><p>Christmas carollers singing at church, 1951</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>

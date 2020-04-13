@@ -4,6 +4,8 @@ title: Raffles Place
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/raffles-place/
 breadcrumb: Raffles Place
 collection_name: centres-of-commerce
+second_nav_title: "Centres of Commerce"
+
 ---
 Originally known as Commercial Square, Raffles Place was designated as the business district of Singapore by Sir Stamford Raffles in 1822. Originally a swampy area, a hill had to be levelled to fill and construct the square.
 
@@ -28,7 +30,7 @@ Fullerton Square was a busy thoroughfare that connected Collyer Quay – once th
 <p></p>
 <hr>
 
-![Battery Road, c. 1900](/images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road-rz.jpg)
+![Fullerton Square and Battery Road, c. 1900](/images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road-rz.jpg)
 <div class="custom-caption">
 <div><p>Fullerton Square and Battery Road, c. 1900</p></div>
 <div>National Archives of the Netherlands Collection, courtesy of National Archives of Singapore</div>
@@ -49,7 +51,7 @@ The mercantile community on Battery Road was made up of mainly European merchant
 <p></p>
 <hr>
 
-![Battery Road, 1925-1930](/images/centres-of-commerce/Sub1-4-battery-road.jpg)
+![Battery Road, 1920s](/images/centres-of-commerce/Sub1-4-battery-road.jpg)
 <div class="custom-caption">
 <div><p>Battery Road, 1920s</p></div>
 <div>Anthony Wharton Collection, courtesy of National Archives of Singapore </div>
@@ -71,7 +73,7 @@ European doctors, in this case, by German doctor Christopher Trebing in the 1870
 <p></p>
 <hr>
 
-![Commercial Square, 1880s](/images/centres-of-commerce/Sub1-6-raffles-place.jpg)
+![Raffles Place, 1880s](/images/centres-of-commerce/Sub1-6-raffles-place.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place, 1880s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -81,7 +83,7 @@ Originally known as Commercial Square, Raffles Place was designated as a busines
 <p></p>
 <hr>
 
-![Raffles Place, 1920](/images/centres-of-commerce/Sub1-7-raffles-place.jpg)
+![Raffles Place, 1920s](/images/centres-of-commerce/Sub1-7-raffles-place.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place, 1920s</p></div>
 <div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
@@ -93,7 +95,7 @@ the oldest department store in Singapore, on the right.
 <p></p>
 <hr>
 
-![Raffles Place seen from the Chartered Bank, 1920s](/images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank-cr.jpg)
+![Raffles Place seen from Chartered Bank, 1920s](/images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank-cr.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place seen from Chartered Bank, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -104,7 +106,7 @@ The square of Raffles Place was originally a garden before it was turned into a 
 <p></p>
 <hr>
 
-![Raffles Place, 1965](/images/centres-of-commerce/Sub1-9-raffles-place-1966-rz.jpg)
+![Raffles Place, 1966](/images/centres-of-commerce/Sub1-9-raffles-place-1966-rz.jpg)
 <div class="custom-caption">
 <div><p>Raffles Place, 1966</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>

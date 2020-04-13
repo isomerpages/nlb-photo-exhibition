@@ -4,6 +4,8 @@ title: Seats of Power
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: Seats of Power
 collection_name: places-of-power-and-worship
+second_nav_title: "Places of Power and Worship"
+
 ---
 Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
 
@@ -33,7 +35,7 @@ Fort Canning was one of Singapore’s first British-built fortifications. Its pu
 <p></p>
 <hr>
 
-![View of town from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
+![View from Fort Canning Hill, 1870s](/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill.jpg)
 <div class="custom-caption">
 <div><p>View from Fort Canning Hill, 1870s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
@@ -54,7 +56,7 @@ After the old Government House on Government Hill (now Fort Canning Hill) was de
 <p></p>
 <hr>
 
-![Government House, 1890s](/images/power-and-worship/Sub1-7-government-house.jpg)
+![Government House, 1899](/images/power-and-worship/Sub1-7-government-house.jpg)
 <div class="custom-caption">
 <div><p>Government House, 1899</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
