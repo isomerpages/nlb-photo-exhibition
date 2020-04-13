@@ -4,6 +4,8 @@ title: High Life in the City
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/
 breadcrumb: High Life in the City
 collection_name: tropical-metropolis
+second_nav_title: "Tropical Metropolis"
+
 ---
 
 As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. The opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, and accommodation, retail and entertainment facilities flourished to cater for the needs of international travellers. This section showcases what Singapore had to offer when high living was called for – world-class hotels, modern department stores, shopping belts, as well as entertainment to suit every taste and budget.

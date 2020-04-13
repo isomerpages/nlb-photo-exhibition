@@ -4,6 +4,8 @@ title: People at Work
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
 breadcrumb: People at Work
 collection_name: all-walks-of-life
+second_nav_title: "All Walks of Life"
+
 ---
 The founding of Singapore as a British trading port in 1819 led to an influx of immigrants from China, India and the Malay Archipelago, who came in search of work opportunities arising from the colony’s rapid growth. People of different trades and socio-economic status arrived, from administrators and merchants, to peddlers and labourers.
 

@@ -4,6 +4,8 @@ title: Harbour at Tanjong Pagar
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar/
 breadcrumb: Harbour at Tanjong Pagar
 collection_name: centres-of-commerce
+second_nav_title: "Centres of Commerce"
+
 ---
 Until the latter part of the 19th century, most of Singapore’s shipping activities were centred around the mouth of the Singapore River. By the 1850s, the river was congested with shipping traffic, and a new port was necessary to cater to the increasing trade.
 

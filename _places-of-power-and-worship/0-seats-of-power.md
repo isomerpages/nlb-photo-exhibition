@@ -4,6 +4,8 @@ title: Seats of Power
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: Seats of Power
 collection_name: places-of-power-and-worship
+second_nav_title: "Places of Power and Worship"
+
 ---
 Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
 

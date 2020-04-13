@@ -4,6 +4,8 @@ title: Festive Celebrations
 permalink: /memories-of-two-cities-singapore/colourful-customs/festive-celebrations/
 breadcrumb: Festive Celebrations
 collection_name: colourful-customs
+second_nav_title: "Colourful Customs"
+
 ---
 
 One of the highlights of living in Singapore is experiencing the festivals of its various ethnic and religious communities throughout the year. 

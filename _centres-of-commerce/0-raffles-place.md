@@ -4,6 +4,8 @@ title: Raffles Place
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/raffles-place/
 breadcrumb: Raffles Place
 collection_name: centres-of-commerce
+second_nav_title: "Centres of Commerce"
+
 ---
 Originally known as Commercial Square, Raffles Place was designated as the business district of Singapore by Sir Stamford Raffles in 1822. Originally a swampy area, a hill had to be levelled to fill and construct the square.
 
