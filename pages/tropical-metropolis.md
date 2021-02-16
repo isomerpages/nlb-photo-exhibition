@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Tropical Metropolis
+title: 'Tropical Metropolis'
 permalink: /tropical-metropolis/
-breadcrumb: Tropical Metropolis
+breadcrumb: 'Tropical Metropolis'
+
 ---
+
 ![NLB Photo Exhibition - Collyer Quay](/images/tropical-metropolis-banner-2.jpg)
 ### **Tropical Metropolis**
 
