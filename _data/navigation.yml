@@ -6,6 +6,7 @@
 
 - title: Memories of Two Cities Singapore
   url: /memories-of-two-cities-singapore/
+  false_collection: true
   sub-links:
   - title: Places of Power and Worship
     url: /memories-of-two-cities-singapore/places-of-power-and-worship/
