@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Harbour at Tanjong Pagar
+title: 'Harbour at Tanjong Pagar'
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar/
-breadcrumb: Harbour at Tanjong Pagar
-collection_name: centres-of-commerce
-second_nav_title: "Centres of Commerce"
+breadcrumb: 'Harbour at Tanjong Pagar'
+third_nav_title: 'Centres of Commerce'
 
 ---
+
 Until the latter part of the 19th century, most of Singapore’s shipping activities were centred around the mouth of the Singapore River. By the 1850s, the river was congested with shipping traffic, and a new port was necessary to cater to the increasing trade.
 
 New Harbour, now known as Keppel Harbour, had been in use by local and regional traders for centuries. In 1848, British Royal Navy officer Henry Keppel conducted a survey of the harbour and recommended its use to both public and private shipping companies. Wharves were constructed at Tanjong Pagar, leading to the birth of New Harbour. This led to the rapid urbanisation of Tanjong Pagar as godowns (warehouses), roads, and commercial and housing properties sprung up in the area to cater to the growing economic activity around the harbour.
