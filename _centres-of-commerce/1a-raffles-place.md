@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Raffles Place
+title: 'Raffles Place'
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/raffles-place/
-breadcrumb: Raffles Place
-collection_name: centres-of-commerce
-second_nav_title: "Centres of Commerce"
+breadcrumb: 'Raffles Place'
+third_nav_title: 'Centres of Commerce'
 
 ---
+
 Originally known as Commercial Square, Raffles Place was designated as the business district of Singapore by Sir Stamford Raffles in 1822. Originally a swampy area, a hill had to be levelled to fill and construct the square.
 
 The proximity of Commercial Square to the harbour at Collyer Quay and the Singapore River – the lifeline of Singapore’s entrepôt trade – gave rise to banks, trading agencies, shops, godowns (warehouses) and offices around the square. The imposing buildings of these commercial establishments lent an air of affluence and distinction to the area.
