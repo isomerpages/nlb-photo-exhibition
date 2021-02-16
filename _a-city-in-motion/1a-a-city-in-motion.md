@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: A City in Motion
+title: 'A City in Motion'
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
-breadcrumb: A City in Motion
-collection_name: a-city-in-motion
-second_nav_title: "A City in Motion"
+breadcrumb: 'A City in Motion'
+third_nav_title: 'A City in Motion'
 
 ---
+
 
 ![Rickshaw puller, c.1910](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
 <div class="custom-caption">
