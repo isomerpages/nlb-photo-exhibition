@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Memories of Two Cities - Singapore
+title: 'Memories of Two Cities - Singapore'
 permalink: /memories-of-two-cities-singapore/
-breadcrumb: Memories of Two Cities Singapore
+breadcrumb: 'Memories of Two Cities Singapore'
+
 ---
+
 ![Memories of Two Cities - Singapore Banner](/images/nlb-photo-exhibition-page-banner.jpg)
 
 Beneath its modern façade, Singapore has a long history that dates back more than 700 years to its time as a trading port in late 13th-century Southeast Asia. After the founding of a British trading post on the island in 1819, Singapore developed into a thriving entrepot where people from around the world came to live and work. Cultural diversity characterised early Singapore and was manifested in its physical and social landscapes, lending the city a unique charm.
