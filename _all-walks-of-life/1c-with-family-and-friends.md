@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: With Family and Friends
+title: 'With Family and Friends'
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/
-breadcrumb: With Family and Friends
-collection_name: all-walks-of-life
-second_nav_title: "All Walks of Life"
+breadcrumb: 'With Family and Friends'
+third_nav_title: 'All Walks of Life'
 
 ---
+
 British traveller and writer Isabella Bird wrote of Singapore in 1879: ‘a city ablaze with colour and motley with costume…every Oriental costume from the Levant to China floats through the streets’. Early Singapore was a melting pot of cultures and one’s cultural identity was often apparent in the costumes he or she wore.  
 
 In the early days, taking family or group portraits was usually reserved for special occasions or a privilege of the wealthy. As such, the group portraits in this section are precious glimpses of the myriad communities that once resided in Singapore. Whether impeccably dressed for the studio portrait, or in everyday clothes in their home environments, they reflect the rich tapestry of Singapore’s multi-cultural society. 
