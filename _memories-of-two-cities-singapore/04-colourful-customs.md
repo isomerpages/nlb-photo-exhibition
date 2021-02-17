@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Colourful Customs
+title: 'Colourful Customs'
 permalink: /memories-of-two-cities-singapore/colourful-customs/
-breadcrumb: Colourful Customs
-collection_name: memories-of-two-cities-singapore
+breadcrumb: 'Colourful Customs'
+
 ---
+
 
 ![Peranakan wedding, 1925](/images/colourful-customs/colourful-customs-banner.jpg)
 ### **Colourful Customs**

@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Seats of Power
+title: 'Seats of Power'
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
-breadcrumb: Seats of Power
-collection_name: places-of-power-and-worship
-second_nav_title: "Places of Power and Worship"
+breadcrumb: 'Seats of Power'
+third_nav_title: 'Places of Power and Worship'
 
 ---
+
 Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
 
 The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fort Canning Hill) had long been exclusive to the royalty and was a symbol of power. Sir Stamford Raffles built a bungalow on the hill in 1822, which eventually became Government House – the official residence of colonial governors. A new Government House was erected in the vicinity of Orchard Road in 1869. Meanwhile, the Malay royalty resided in Singapore at the Istana (‘palace’ in Malay) in Kampong Glam. Being seats of authority or royal households, these buildings were remarkable in both architectural features and historical significance.

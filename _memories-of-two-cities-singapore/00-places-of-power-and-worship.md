@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Places of Power and Worship
+title: 'Places of Power and Worship'
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/
-breadcrumb: Places of Power and Worship
-collection_name: memories-of-two-cities-singapore
+breadcrumb: 'Places of Power and Worship'
+
 ---
+
 
 ![Government House, 1899](/images/power-and-worship/power-and-worship-banner.jpg)
 

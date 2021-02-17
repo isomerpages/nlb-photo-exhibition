@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: All Walks of Life
+title: 'All Walks of Life'
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/
-breadcrumb: All Walks of Life
-collection_name: memories-of-two-cities-singapore
+breadcrumb: 'All Walks of Life'
+
 ---
+
 ![Chinese coolies, 1900s](/images/all-walks-of-life/all-walks-of-life-banner.jpg)
 ### **All Walks of Life**
 

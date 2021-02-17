@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Places of Worship
+title: 'Places of Worship'
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/
-breadcrumb: Places of Worship
-collection_name: places-of-power-and-worship
-second_nav_title: "Places of Power and Worship"
+breadcrumb: 'Places of Worship'
+third_nav_title: 'Places of Power and Worship'
 
 ---
+
 Migrant society in early Singapore was characterised by religious diversity. Immigrants from China, India and the Malay Archipelago brought their religious beliefs and established their respective places of worship. Europeans and Western missionaries set up churches, schools and printing presses. Major religions of the world were represented on the island, with Buddhism, Taoism, Islam, Hinduism and Christianity as the major religions of the population. Apart from catering to the spiritual needs of immigrants, these institutions also served as social hubs, playing an important role in people’s lives.
 
 The various religious communities gave Singapore a rich architectural landscape. Remarkable mosques, churches, Chinese and Hindu temples

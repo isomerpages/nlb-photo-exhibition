@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Singapore River
+title: 'Singapore River'
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/singapore-river/
-breadcrumb: Singapore River
-collection_name: centres-of-commerce
-second_nav_title: "Centres of Commerce"
+breadcrumb: 'Singapore River'
+third_nav_title: 'Centres of Commerce'
 
 ---
+
 Singapore’s role in regional trade dates back to the 13th century, when it was known as Temasek, one of the port cities along the Straits of Melaka, serving as a collection centre for products marketed mainly to China and a redistribution centre for Chinese and other international products. In 1819, the British, who needed a port for the China trade, established a trading post in Singapore, due to its strategic location on major maritime trade routes and naturally deep harbour.
 
 The Singapore River, located within the Island’s commercial heart, was critical to the island’s development. For much of the 19th century, the river bustled with economic activity, with smaller vessels ferrying cargo between the riverbanks and ships docked at the harbour. The river became over-congested by the mid-1800s, and the creation of a port at New Harbour (Keppel Harbour) drew some shipping activity away from the river.

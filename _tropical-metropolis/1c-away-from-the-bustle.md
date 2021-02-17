@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Away from the Bustle
+title: 'Away from the Bustle'
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/away-from-the-bustle/
-breadcrumb: Away from the Bustle
-collection_name: tropical-metropolis
-second_nav_title: "Tropical Metropolis"
+breadcrumb: 'Away from the Bustle'
+third_nav_title: 'Tropical Metropolis'
 
 ---
+
 
 Residents of early Singapore sought respite from the bustle of city life and the tropical heat. Singapore’s close proximity to the sea meant there were numerous spots where people could enjoy sea views and cool breezes, such as the Esplanade in the city centre and Tanjong Katong, a popular seaside destination on the east coast. As the city developed, public parks and recreational spaces were established as leisure spots for the public. The Botanical Gardens, Impounding Reservoir (now MacRitchie Reservoir) and other parks provided a quiet retreat and breather from hurried city life – a function they continue to serve today. 
 ![---](/images/partition.jpg)
