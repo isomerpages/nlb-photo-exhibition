@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Tropical Metropolis
+title: 'Tropical Metropolis'
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/
-breadcrumb: Tropical Metropolis
-collection_name: memories-of-two-cities-singapore
+breadcrumb: 'Tropical Metropolis'
+
 ---
+
 ![Singapore waterfront, 1930s](/images/tropical-metropolis-banner.jpg)
 ### **Tropical Metropolis**
 

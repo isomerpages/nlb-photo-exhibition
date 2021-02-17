@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Weddings and Funerals
+title: 'Weddings and Funerals'
 permalink: /memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/
-breadcrumb: Weddings and Funerals
-collection_name: colourful-customs
-second_nav_title: "Colourful Customs"
+breadcrumb: 'Weddings and Funerals'
+third_nav_title: 'Colourful Customs'
 
 ---
+
 
 In early Singapore, people accorded great importance to the observance of customs during life events such as weddings and funerals. Often, these events involved elaborate practices and attracted spectators.  
 

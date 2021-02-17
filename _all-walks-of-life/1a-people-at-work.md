@@ -1,12 +1,11 @@
 ---
-layout: leftnav-page-content
-title: People at Work
+title: 'People at Work'
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
-breadcrumb: People at Work
-collection_name: all-walks-of-life
-second_nav_title: "All Walks of Life"
+breadcrumb: 'People at Work'
+third_nav_title: 'All Walks of Life'
 
 ---
+
 The founding of Singapore as a British trading port in 1819 led to an influx of immigrants from China, India and the Malay Archipelago, who came in search of work opportunities arising from the colony’s rapid growth. People of different trades and socio-economic status arrived, from administrators and merchants, to peddlers and labourers.
 
 A large number of migrants from China and India arrived as labourers, providing the much-needed labour in building construction, agriculture, shipping and other industries on the island. Others came as merchants, shopkeepers and moneylenders. Among the indigenous Malays and their fellows from the region, many worked as fishermen, farmers, artisans, traders, and more. The Europeans came as administrators and merchants, working in government offices, banks and trading houses. They were often assisted by English-educated locals. The following images show people, who contributed to the development of early Singapore, at work. 
