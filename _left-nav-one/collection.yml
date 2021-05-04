@@ -1,0 +1,6 @@
+collections:
+  left-nav-one:
+    output: false
+    order:
+      - the-earliest-thoroughfares.md
+      - sub-page-b.md
