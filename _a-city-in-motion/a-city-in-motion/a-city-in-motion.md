@@ -70,7 +70,7 @@ In 19th-century Singapore, taking an evening ride in one’s carriage around tow
 <p></p>
 <hr>
 
-![Bullock Cart, 1910s](/images/city-in-motion/Sub1-7-Bullock-Cart.jpg)
+<img srcset="/images/city-in-motion/Sub1-7-Bullock-Cart_400w.jpg 400w, /images/city-in-motion/Sub1-7-Bullock-Cart_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="645" width="1000" src="/images/city-in-motion/Sub1-7-Bullock-Cart_400w.jpg" alt="Bullock Cart, 1910s">
 <div class="custom-caption">
 <div><p>Bullock cart, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
