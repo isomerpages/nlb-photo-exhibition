@@ -27,7 +27,7 @@ Seen here is a street in Chinatown, where many Rickshaw pullers typically lived 
 <p></p>
 <hr>
 
-![A rickshaw puller and his passengers, 1900s](/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers.jpg)
+<img srcset="/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_400w.jpg 400w, /images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="725" width="1000" src="/images/city-in-motion/Sub1-3-rickshaw-puller-and-his-passengers_400w.jpg" alt="A rickshaw puller and his passengers, 1900s">
 <div class="custom-caption">
 <div><p>Rickshaw puller and passengers, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
