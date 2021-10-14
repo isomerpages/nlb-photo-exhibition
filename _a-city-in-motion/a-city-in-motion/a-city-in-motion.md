@@ -16,7 +16,7 @@ Rickshaws, also known as jinrikishas or jinrickshas, were imported from Japan vi
 <p></p>
 <hr>
 
-![Rickshaws and Chinese shophouses in Singapore, c. 1910](/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses.jpg)
+<img srcset="/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_400w.jpg 400w, /images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="633" width="1000" src="/images/city-in-motion/Sub1-2-rickshaw-and-chinese-shophouses_400w.jpg" alt="Rickshaws and Chinese shophouses in Singapore, c. 1910">
 <div class="custom-caption">
 <div><p>Rickshaws and shophouses in Chinatown, 1910s</p></div>
 <div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
