@@ -169,7 +169,7 @@ Trolley buses were the first local bus services introduced by the Singapore Trac
 <p></p>
 <hr>
 
-![Trolley bus, 1930](/images/city-in-motion/Sub1-17-a-trolley-bus.jpg)
+<img srcset="/images/city-in-motion/Sub1-17-a-trolley-bus_400w.jpg 400w, /images/city-in-motion/Sub1-17-a-trolley-bus_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="602" width="1000" src="/images/city-in-motion/Sub1-17-a-trolley-bus_400w.jpg" alt="Trolley bus, 1930">
 <div class="custom-caption">
 <div><p>Trolley bus, 1930</p></div>
 <div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
@@ -180,7 +180,7 @@ Trolley bus services began in 1929. After the Second World War, they were gradua
 <p></p>
 <hr>
 
-![Car park at Bukit Timah race course, 1936](/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course.jpg)
+<img srcset="/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_400w.jpg 400w, /images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="621" width="1000" src="/images/city-in-motion/Sub1-18-car-park-at-bukit-timah-race-course_400w.jpg" alt="Car park at Bukit Timah race course, 1936">
 <div class="custom-caption">
 <div><p>Car park at Bukit Timah Race Course, 1936</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -191,7 +191,7 @@ The first motorcar was brought into Singapore in 1894. It likely started a craze
 <p></p>
 <hr>
 
-![Outing by car at MacRitichie Reservoir, 1920s](/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir.jpg)
+<img srcset="/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_400w.jpg 400w, /images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="720" width="1000" src="/images/city-in-motion/Sub1-20-passengers-in-a-car-at-macritichie-reservoir_400w.jpg" alt="Outing by car at MacRitichie Reservoir, 1920s">
 <div class="custom-caption">
 <div><p>Outing by car at MacRitichie Reservoir, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -202,7 +202,7 @@ In the early 20th century, cars were marketed as a luxury good and a symbol of w
 <p></p>
 <hr>
 
-![Motor car with female driver and passengers, 1920s](/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road.jpg)
+<img srcset="/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_400w.jpg 400w, /images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="751" width="1000" src="/images/city-in-motion/Sub1-19-vintage-car-with-passengers-at-north-bridge-road_400w.jpg" alt="Motor car with female driver and passengers, 1920s">
 <div class="custom-caption">
 <div><p>Motor car with female driver and passengers, 1920s</p></div>
 <div>The Peranakan Association Collection, courtesy of National Archives of Singapore</div>
@@ -213,7 +213,7 @@ Women driving cars, as seen here, was a rare sight in early Singapore, and indic
 <p></p>
 <hr>
 
-![Traffic policeman, 1930s](/images/city-in-motion/Sub1-21-traffic-policeman.jpg)
+<img srcset="/images/city-in-motion/Sub1-21-traffic-policeman_400w.jpg 400w, /images/city-in-motion/Sub1-21-traffic-policeman_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="629" width="1000" src="/images/city-in-motion/Sub1-21-traffic-policeman_400w.jpg" alt="Traffic policeman, 1930s">
 <div class="custom-caption">
 <div><p>Traffic policeman, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -225,7 +225,7 @@ seen in their distinctive uniforms directing traffic at busy road junctions.
 <p></p>
 <hr>
 
-![Traffic policeman, 1930s](/images/city-in-motion/Sub1-22-traffic-constable.jpg)
+<img srcset="/images/city-in-motion/Sub1-22-traffic-constable_400w.jpg 400w, /images/city-in-motion/Sub1-22-traffic-constable_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="686" width="1000" src="/images/city-in-motion/Sub1-22-traffic-constable_400w.jpg" alt="Traffic policeman, 1930s">
 <div class="custom-caption">
 <div><p>Traffic policeman, 1930s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
@@ -237,7 +237,7 @@ their backs, which helped them to direct traffic at road junctions.
 <p></p>
 <hr>
 
-![A traffic policeman guiding vehicles at a junction, 1950s](/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg)
+<img srcset="/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction_400w.jpg 400w, /images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="753" width="958" src="/images/city-in-motion/Sub1-23-a-traffic-policeman-guiding-vehicles-at-road-junction_400w.jpg" alt="A traffic policeman guiding vehicles at a junction, 1950s">
 <div class="custom-caption">
 <div><p>A traffic policeman guiding vehicles at a junction, 1950s</p></div>
 <div>Singapore Police Force Collection, courtesy of National Archives of Singapore</div>
@@ -247,7 +247,7 @@ their backs, which helped them to direct traffic at road junctions.
 <p></p>
 <hr>
 
-![Singapore-Kranji Railway, 1906](/images/city-in-motion/Sub1-24-singapore-kranji-railway.jpg)
+<img srcset="/images/city-in-motion/Sub1-24-singapore-kranji-railway_400w.jpg 400w, /images/city-in-motion/Sub1-24-singapore-kranji-railway_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="630" width="1000" src="/images/city-in-motion/Sub1-24-singapore-kranji-railway_400w.jpg" alt="Singapore-Kranji Railway, 1906">
 <div class="custom-caption">
 <div><p>Singapore-Kranji Railway, 1906</p></div>
 <div>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore </div>
@@ -258,7 +258,7 @@ The Singapore-Kranji Railway, also known as the Singapore-Johor Railway, opened 
 <p></p>
 <hr>
 
-![Newton station, 1910](/images/city-in-motion/Sub1-25-newton-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-25-newton-station_400w.jpg 400w, /images/city-in-motion/Sub1-25-newton-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="638" width="1000" src="/images/city-in-motion/Sub1-25-newton-station_400w.jpg" alt="Newton station, 1910">
 <div class="custom-caption">
 <div><p>Newton station, 1910</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -269,7 +269,7 @@ The Singapore-Kranji Railway opened in 1903 and ran between Tank Road and Kranji
 <p></p>
 <hr>
 
-![Tank Road station, 1920s](/images/city-in-motion/Sub1-26-tank-road-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-26-tank-road-station_400w.jpg 400w, /images/city-in-motion/Sub1-26-tank-road-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="621" width="1000" src="/images/city-in-motion/Sub1-26-tank-road-station_400w.jpg" alt="Tank Road station, 1920s">
 <div class="custom-caption">
 <div><p>Tank Road station, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -280,7 +280,7 @@ Tank Road railway station, located near Fort Canning, served as the main terminu
 <p></p>
 <hr>
 
-![Bukit Timah station, 1900s](/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr.jpg)
+<img srcset="/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_400w.jpg 400w, /images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="647" width="1000" src="/images/city-in-motion/Sub1-27-bukit-timah-railway-station-cr_400w.jpg" alt="Bukit Timah station, 1900s">
 <div class="custom-caption">
 <div><p>Bukit Timah station, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -291,7 +291,7 @@ Bukit Timah railway station comprised simple, unadorned brick buildings with gab
 <p></p>
 <hr>
 
-![Tanjong Pagar station, 1940](/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_400w.jpg 400w, /images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="641" width="1000" src="/images/city-in-motion/Sub1-28-tanjong-pagar-railway-station_400w.jpg" alt="Tanjong Pagar station, 1940">
 <div class="custom-caption">
 <div><p>Tanjong Pagar station, 1940</p></div>
 <div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
@@ -302,7 +302,7 @@ Located along Keppel Road, Tanjong Pagar railway station served trains operated 
 <p></p>
 <hr>
 
-![Tanjong Pagar station, 1930s](/images/city-in-motion/Sub1-29-railway-station.jpg)
+<img srcset="/images/city-in-motion/Sub1-29-railway-station_400w.jpg 400w, /images/city-in-motion/Sub1-29-railway-station_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="486" width="1000" src="/images/city-in-motion/Sub1-29-railway-station_400w.jpg" alt="Tanjong Pagar station, 1930s">
 <div class="custom-caption">
 <div><p>Tanjong Pagar station, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
