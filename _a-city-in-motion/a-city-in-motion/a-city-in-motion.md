@@ -81,7 +81,7 @@ Bullock-drawn carts were one of the earliest modes of transport in Singapore. Pr
 <p></p>
 <hr>
 
-![Bullock cart, 1900s](/images/city-in-motion/Sub1-8-water-car.jpg)
+<img srcset="/images/city-in-motion/Sub1-8-water-car_400w.jpg 400w, /images/city-in-motion/Sub1-8-water-car_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="638" width="1000" src="/images/city-in-motion/Sub1-8-water-car_400w.jpg" alt="Bullock cart, 1900s">
 <div class="custom-caption">
 <div><p>Bullock cart, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -93,7 +93,7 @@ from domestic and commercial use, water was also used to settle dust raised by v
 <p></p>
 <hr>
 
-![Street scene with rickshaw, bullock cart and hawker, 1900s](/images/city-in-motion/Sub1-9-street-scene.jpg)
+<img srcset="/images/city-in-motion/Sub1-9-street-scene_400w.jpg 400w, /images/city-in-motion/Sub1-9-street-scene_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="619" width="1000" src="/images/city-in-motion/Sub1-9-street-scene_400w.jpg" alt="Street scene with rickshaw, bullock cart and hawker, 1900s">
 <div class="custom-caption">
 <div><p>Street scene with rickshaw, bullock cart and hawker, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -104,7 +104,7 @@ Rickshaws and bullock carts were popular modes of transport in early Singapore. 
 <p></p>
 <hr>
 
-![Trishaw, 1950](/images/city-in-motion/Sub1-11-trishaw.jpg)
+<img srcset="/images/city-in-motion/Sub1-11-trishaw_400w.jpg 400w, /images/city-in-motion/Sub1-11-trishaw_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="658" width="1000" src="/images/city-in-motion/Sub1-11-trishaw_400w.jpg" alt="Trishaw, 1950">
 <div class="custom-caption">
 <div><p>Trishaw, 1950</p></div>
 <div>Regina Lim Kheng Yeok Collection, courtesy of National Archives of Singapore</div>
@@ -115,9 +115,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-<p class="portrait-resize">
-![Trishaw rider and passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
-</p>
+<img srcset="/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger_400w.jpg 400w, /images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1050" width="700" src="/images/city-in-motion/Sub1-11-trishaw_400w.jpg" alt="Trishaw rider and passenger, 1961">
 <div class="custom-caption">
 <div><p>Trishaw rider and passenger, 1961</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
