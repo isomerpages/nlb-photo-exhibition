@@ -4,7 +4,7 @@ permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
 breadcrumb: A City in Motion
 third_nav_title: A City in Motion
 ---
-<img alt="Rickshaw puller, c.1910" src="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg" width="1000" height="603" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg 400w, /images/city-in-motion/Sub1-1-rickshaw-puller_1000w.jpg 1000w">
+<img srcset="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg 400w, /images/city-in-motion/Sub1-1-rickshaw-puller_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="603" width="1000" src="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg" alt="Rickshaw puller, c.1910">
 <div class="custom-caption">
 <div><p>Rickshaw puller, 1910s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
