@@ -1,13 +1,10 @@
 ---
-title: 'A City in Motion'
+title: A City in Motion
 permalink: /memories-of-two-cities-singapore/a-city-in-motion/a-city-in-motion/
-breadcrumb: 'A City in Motion'
-third_nav_title: 'A City in Motion'
-
+breadcrumb: A City in Motion
+third_nav_title: A City in Motion
 ---
-
-
-![Rickshaw puller, c.1910](/images/city-in-motion/Sub1-1-rickshaw-puller.jpg)
+<img alt="Rickshaw puller, c.1910" src="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg" width="1000" height="603" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/city-in-motion/Sub1-1-rickshaw-puller_400w.jpg 400w, /images/city-in-motion/Sub1-1-rickshaw-puller_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Rickshaw puller, 1910s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -52,7 +49,7 @@ Horse-drawn carriages were a common sight in Singapore in the 19th century. The 
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
+<p class="portrait-resize">
 ![A horse-drawn carriage, 1900s](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
 </p>
 <div class="custom-caption">
@@ -69,7 +66,7 @@ In 19th-century Singapore, taking an evening ride in one’s carriage around tow
 <div class="custom-caption">
 <div><p>Horse and carriage, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
-<div>20090000101 - 0031</div>
+<div>20090000101&nbsp;-&nbsp;0031</div>
 </div>
 <p></p>
 <p></p>
@@ -104,7 +101,7 @@ from domestic and commercial use, water was also used to settle dust raised by v
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005505 – 0030</div>
 </div>
-Rickshaws and bullock carts were popular modes of transport in early Singapore. The use of bullock carts began to dwindle in the late 19th century with the introduction of mechanised transport. Rickshaws continued to be popular until they were replaced by bicycle-run trishaws in the 1940s. 
+Rickshaws and bullock carts were popular modes of transport in early Singapore. The use of bullock carts began to dwindle in the late 19th century with the introduction of mechanised transport. Rickshaws continued to be popular until they were replaced by bicycle-run trishaws in the 1940s.&nbsp;
 <p></p>
 <p></p>
 <hr>
@@ -120,7 +117,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
+<p class="portrait-resize">
 ![Trishaw rider and passenger, 1961](/images/city-in-motion/Sub1-12-a-trishaw-rider-and-his-passenger.jpg)
 </p>
 <div class="custom-caption">
@@ -182,7 +179,7 @@ Trolley buses were the first local bus services introduced by the Singapore Trac
 <div>J. A. Bennett Collection, courtesy of National Archives of Singapore</div>
 <div>19980005146 - 0047</div>
 </div>
-Trolley bus services began in 1929. After the Second World War, they were gradually replaced by motorbuses and finally ceased operation in 1962. 
+Trolley bus services began in 1929. After the Second World War, they were gradually replaced by motorbuses and finally ceased operation in 1962.&nbsp;
 <p></p>
 <p></p>
 <hr>
@@ -318,4 +315,3 @@ Located along Keppel Road, Tanjong Pagar railway station served trains operated 
 Tanjong Pagar railway station was designed by leading architectural firm Swan &amp; Maclaren. The building was inspired by railways stations in Europe and incorporated Art Deco and Neo-Classical elements in its design.
 <p></p>
 <p></p>
-
