@@ -1,7 +1,10 @@
-title: 'Memories of Two Cities'
-title-abbreviated: 'Memories of Two Cities'
-description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly presented by the Capital Library of China and the National Library of Singapore, signifying the goodwill and partnership between the two institutions."'
-url: 'https://memoriesoftwocities.nlb.gov.sg'
+title: Memories of Two Cities
+title-abbreviated: Memories of Two Cities
+description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly
+  presented by the Capital Library of China and the National Library of
+  Singapore, signifying the goodwill and partnership between the two
+  institutions."'
+url: https://memoriesoftwocities.nlb.gov.sg
 google_analytics: UA-50449401-29
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -30,19 +33,19 @@ defaults:
     values:
       layout: page
 colors:
-  primary-color: '#e25f25'
-  secondary-color: '#e25f25'
+  primary-color: "#cf4000"
+  secondary-color: "#cf4000"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 staging: https://nlb-photo-exhibition-staging.netlify.com/
 prod: https://nlb-photo-exhibition-production.netlify.com/
 plugins:
