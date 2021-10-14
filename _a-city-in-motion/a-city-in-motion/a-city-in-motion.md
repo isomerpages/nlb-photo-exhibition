@@ -49,9 +49,7 @@ Horse-drawn carriages were a common sight in Singapore in the 19th century. The 
 <p></p>
 <hr>
 
-<p class="portrait-resize">
-![A horse-drawn carriage, 1900s](/images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg)
-</p>
+<img srcset="/images/city-in-motion/Sub1-5-horse-drawn-carriage_400w.jpg 400w, /images/city-in-motion/Sub1-5-horse-drawn-carriage.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="647" width="700" src="/images/city-in-motion/Sub1-5-horse-drawn-carriage_400w.jpg" alt="A horse-drawn carriage, 1900s">
 <div class="custom-caption">
 <div><p>Horse-drawn carriage, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
