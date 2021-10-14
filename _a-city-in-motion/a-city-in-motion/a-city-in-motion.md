@@ -60,7 +60,7 @@ In 19th-century Singapore, taking an evening ride in one’s carriage around tow
 <p></p>
 <hr>
 
-![Horse and carriage, 1880s](/images/city-in-motion/Sub1-6-horse-and-carriage.jpg)
+<img srcset="/images/city-in-motion/Sub1-6-horse-and-carriage_400w.jpg 400w, /images/city-in-motion/Sub1-6-horse-and-carriage_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="645" width="1000" src="/images/city-in-motion/Sub1-6-horse-and-carriage_400w.jpg" alt="Horse and carriage, 1880s">
 <div class="custom-caption">
 <div><p>Horse and carriage, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
