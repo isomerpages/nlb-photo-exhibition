@@ -125,7 +125,7 @@ The trishaw, which was introduced during the Japanese occupation (1942–1945), 
 <p></p>
 <hr>
 
-![Tram car, 1900s](/images/city-in-motion/Sub1-13-a-tram-car.jpg)
+<img srcset="/images/city-in-motion/Sub1-13-a-tram-car_400w.jpg 400w, /images/city-in-motion/Sub1-13-a-tram-car_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="743" width="1000" src="/images/city-in-motion/Sub1-13-a-tram-car_400w.jpg" alt="Tram car, 1900s">
 <div class="custom-caption">
 <div><p>Tram car, 1900s</p></div>
 <div>F W York Collection, courtesy of National Archives of Singapore</div>
@@ -137,7 +137,7 @@ Despite heavy competition from rickshaws and bullock carts, trams carried an ave
 <p></p>
 <hr>
 
-![Tram car in Tanjong Katong, 1910s](/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong.jpg)
+<img srcset="/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_400w.jpg 400w, /images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="653" width="1000" src="/images/city-in-motion/Sub1-14-tram-car-in-motion-along-tanjong-katong_400w.jpg" alt="Tram car in Tanjong Katong, 1910s">
 <div class="custom-caption">
 <div><p>Tram car in Tanjong Katong, 1910s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -148,7 +148,7 @@ In 1902, municipal authorities passed the Tramways Ordinance, giving Singapore E
 <p></p>
 <hr>
 
-![Traffic at the junction of Hill Street and Stamford Road, 1920s](/images/city-in-motion/Sub1-15-local-traffic.jpg)
+<img srcset="/images/city-in-motion/Sub1-15-local-traffic_400w.jpg 400w, /images/city-in-motion/Sub1-15-local-traffic_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="635" width="1000" src="/images/city-in-motion/Sub1-15-local-traffic_400w.jpg" alt="Traffic at the junction of Hill Street and Stamford Road, 1920s">
 <div class="custom-caption">
 <div><p>Traffic at the junction of Hill Street and Stamford Road, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -159,7 +159,7 @@ Trolley buses were the first local bus services introduced by the Singapore Trac
 <p></p>
 <hr>
 
-![Commuters boarding a trolley bus at Collyer Quay, 1946](/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay.jpg)
+<img srcset="/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_400w.jpg 400w, /images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="737" width="1000" src="/images/city-in-motion/Sub1-16-commuters-boarding-trolley-bus-at-collyer-quay_400w.jpg" alt="Commuters boarding a trolley bus at Collyer Quay, 1946">
 <div class="custom-caption">
 <div><p>Commuters boarding a trolley bus at Collyer Quay, 1946</p></div>
 <div>Roland Craske Collection, courtesy of National Archives of Singapore</div>
