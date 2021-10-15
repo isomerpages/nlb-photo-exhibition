@@ -33,7 +33,7 @@ Originating from South India, Tamil coolies came to Singapore during the 19th ce
 <p></p>
 <hr>
 
-![Samsui women, 1952](/images/all-walks-of-life/Sub1-3-samsui-women.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-3-samsui-women_400w.jpg 400w, /images/all-walks-of-life/Sub1-3-samsui-women_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="672" width="1000" src="/images/all-walks-of-life/Sub1-3-samsui-women_400w.jpg" alt="Samsui women, 1952">
 <div class="custom-caption">
 <div><p>Samsui women, 1952</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -45,7 +45,7 @@ Samsui women, with their trademark red headdress, were female migrant workers ma
 <hr>
 
 
-![Samsui women having a meal at the worksite, 1954](/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_400w.jpg 400w, /images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="670" width="1000" src="/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_400w.jpg" alt="Samsui women having a meal at the worksite, 1954">
 <div class="custom-caption">
 <div><p>Samsui women having a meal at the worksite, 1954</p></div>
 <div>MITA Collection, courtesy of National Archives of Singapore</div>
@@ -55,7 +55,7 @@ Samsui women, with their trademark red headdress, were female migrant workers ma
 <p></p>
 <hr>
 
-![Street hawkers, 1910s](/images/all-walks-of-life/Sub1-5-street-hawkers-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-5-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-5-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="674" width="1000" src="/images/all-walks-of-life/Sub1-5-street-hawkers-cr_400w.jpg" alt="Street hawkers, 1910s">
 <div class="custom-caption">
 <div><p>Street hawkers, 1910s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
