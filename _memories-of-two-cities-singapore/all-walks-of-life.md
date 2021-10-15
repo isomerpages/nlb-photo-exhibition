@@ -26,9 +26,9 @@ In this section, photographs of people at work and leisure, as well as group por
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/all-walks-of-life/play-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/all-walks-of-life/play-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/play-photo-stack-1.png" height="362" width="500" alt="Malay dancers, 1910s">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/play-photo-stack-2.png" height="362" width="500" alt="Raffles College students dancing, 1948">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png" height="362" width="500" alt="Swimming competition, 1930s">
   </div>
   <p>People at Play</p>
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/"></a>
@@ -40,12 +40,12 @@ In this section, photographs of people at work and leisure, as well as group por
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/all-walks-of-life/family-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/all-walks-of-life/family-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/family-photo-stack-1.png" height="362" width="500" alt="Eurasian family, 1910s">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/family-photo-stack-2.png" height="362" width="500" alt="Chinese family, 1900s-1910s">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png" height="362" width="500" alt="Indian family, 1910s">
   </div>
   <p>With Family and Friends</p>
   <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/"></a>
 </div> 
 
-</div></div>
+</div>
