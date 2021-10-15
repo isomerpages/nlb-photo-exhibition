@@ -21,7 +21,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-3" src="/images/all-walks-of-life/work-photo-stack-3.png" height="362" width="500" alt="Street hawkers, 1910s">
   </div>
   <p>People at Work</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work" aria-label="Read more about People at Work"></a>
 </div>  
   
 <div class="photo-stacked-wrap">
@@ -31,7 +31,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png" height="362" width="500" alt="Swimming competition, 1930s">
   </div>
   <p>People at Play</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/" aria-label="Read more about People at Play"></a>
 </div>
 
 </div>
@@ -45,7 +45,7 @@ In this section, photographs of people at work and leisure, as well as group por
     <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png" height="362" width="500" alt="Indian family, 1910s">
   </div>
   <p>With Family and Friends</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/" aria-label="Read more about With Family and Friends"></a>
 </div> 
 
 </div>
