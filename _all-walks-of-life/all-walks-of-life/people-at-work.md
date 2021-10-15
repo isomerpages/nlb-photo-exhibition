@@ -1,25 +1,23 @@
 ---
-title: 'People at Work'
+title: People at Work
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
-breadcrumb: 'People at Work'
-third_nav_title: 'All Walks of Life'
-
+breadcrumb: People at Work
+third_nav_title: All Walks of Life
 ---
-
 The founding of Singapore as a British trading port in 1819 led to an influx of immigrants from China, India and the Malay Archipelago, who came in search of work opportunities arising from the colony’s rapid growth. People of different trades and socio-economic status arrived, from administrators and merchants, to peddlers and labourers.
 
-A large number of migrants from China and India arrived as labourers, providing the much-needed labour in building construction, agriculture, shipping and other industries on the island. Others came as merchants, shopkeepers and moneylenders. Among the indigenous Malays and their fellows from the region, many worked as fishermen, farmers, artisans, traders, and more. The Europeans came as administrators and merchants, working in government offices, banks and trading houses. They were often assisted by English-educated locals. The following images show people, who contributed to the development of early Singapore, at work. 
+A large number of migrants from China and India arrived as labourers, providing the much-needed labour in building construction, agriculture, shipping and other industries on the island. Others came as merchants, shopkeepers and moneylenders. Among the indigenous Malays and their fellows from the region, many worked as fishermen, farmers, artisans, traders, and more. The Europeans came as administrators and merchants, working in government offices, banks and trading houses. They were often assisted by English-educated locals. The following images show people, who contributed to the development of early Singapore, at work.&nbsp;
 
 <p></p>
 ![---](/images/partition.jpg)
 
-![Chinese coolies, 1900s](/images/all-walks-of-life/Sub1-1-chinese-coolies.jpg)
+<img alt="Chinese coolies, 1900s" src="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/all-walks-of-life/Sub1-1-chinese-coolies_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Chinese coolies, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
-<div>19980001876 – 0063</div>
+<div>19980001876&nbsp;–&nbsp;0063</div>
 </div>
-Many impoverished Chinese migrants came to Singapore in the 19th century to work as coolies – indentured labourers who were employed in construction, agriculture, shipping, mining and other sectors. They formed the backbone of early Singapore’s labour force. Mostly engaged in unskilled, hard labour, coolies worked under harsh circumstances. Coolies carrying cargo and commodities around the Singapore River and port were a common sight in the old days. 
+Many&nbsp;impoverished Chinese migrants came to Singapore in the 19th century to work as coolies – indentured labourers who were employed in construction, agriculture, shipping, mining and other sectors. They formed the backbone of early Singapore’s labour force. Mostly engaged in unskilled, hard labour, coolies worked under harsh circumstances. Coolies carrying cargo and commodities around the Singapore River and port were a common sight in the old days.&nbsp;
 <p></p>
 <p></p>
 <hr>
@@ -63,7 +61,7 @@ Samsui women, with their trademark red headdress, were female migrant workers ma
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
 <div>19980005123 – 0020</div>
 </div>
-Working as an itinerant street hawker was a common occupation among unskilled early migrants, as it required little capital. Seen here are Chinese street hawkers plying their trade outside Telok Ayer Market, now a well-known hawker centre known as Lau Pa Sat (‘old market’ in Hokkien). Hawkers who operated food carts and stalls were once a familiar sight. From the 1970s onwards, they were moved to more sanitary modern hawker centres, which have become one of Singapore’s trademarks. 
+Working as an itinerant street hawker was a common occupation among unskilled early migrants, as it required little capital. Seen here are Chinese street hawkers plying their trade outside Telok Ayer Market, now a well-known hawker centre known as Lau Pa Sat (‘old market’ in Hokkien). Hawkers who operated food carts and stalls were once a familiar sight. From the 1970s onwards, they were moved to more sanitary modern hawker centres, which have become one of Singapore’s trademarks.&nbsp;
 <p></p>
 <p></p>
 <hr>
@@ -79,7 +77,7 @@ Hawkers were frequently found along busy streets and intersections peddling cook
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
+<p class="portrait-resize">
 ![Satay hawker, 1900s](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -92,7 +90,7 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
+<p class="portrait-resize">
 ![Hawker selling snacks, 1900s](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
 </p>
 <div class="custom-caption">
@@ -100,7 +98,7 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980007415 - 0102</div>
 </div>
-Indian hawkers who sold snacks often carried a basket containing their wares on their head. Selling bread and cakes or _kacang puteh_ (‘assorted nuts’ in Malay), they plied their trade along pavements or outside cinemas. 
+Indian hawkers who sold snacks often carried a basket containing their wares on their head. Selling bread and cakes or _kacang puteh_&nbsp;(‘assorted nuts’ in Malay), they plied their trade along pavements or outside cinemas. 
 <p></p>
 <p></p>
 <hr>
@@ -110,7 +108,7 @@ Indian hawkers who sold snacks often carried a basket containing their wares on 
 <div class="custom-caption">
 <div><p>Workers at a pepper plantation, 1890s</p></div>
 <div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
-<div>19980006568 - 0059</div>
+<div>19980006568&nbsp;-&nbsp;0059</div>
 </div>
 Gambier and pepper were two of the most important crops grown in Malaya in the 19th century. The two crops were often cultivated together as they complemented each other. Gambier was in high demand in the dyeing and tanning industry, while pepper had long been an export commodity of Southeast Asia. In the 1840s, there were 600 gambier and pepper plantations in Singapore, which employed thousands of Chinese labourers.
 <p></p>
@@ -121,7 +119,7 @@ Gambier and pepper were two of the most important crops grown in Malaya in the 1
 <div class="custom-caption">
 <div><p>Fishermen at seashore, 1909</p></div>
 <div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
-<div>19980005033 – 0118</div>
+<div>19980005033&nbsp;–&nbsp;0118</div>
 </div>
 In the past, Singapore was known to have many fishing villages, mostly located along the coast. As a livelihood or an important source of income for many, fishing was usually done inshore with lightly built boats, such as the kolek or sampan. 
 <p></p>
@@ -131,11 +129,9 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 ![Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
-<div>Collection ABN AMRO Art & History Department, Amsterdam, courtesy of National Archives of Singapore</div>
-<div>20060000334 - 0108</div>
+<div>Collection ABN AMRO Art &amp; History Department, Amsterdam, courtesy of National Archives of Singapore</div>
+<div>20060000334&nbsp;-&nbsp;0108</div>
 </div>
 As a trading and commercial hub, Singapore was home to many European merchant houses, which were located at Raffles Place and Collyer Quay. Initially, it was mostly the Westerners employed in these establishments, but as Singapore’s workforce became more qualified, English-educated locals took on junior roles such as clerical officers.
 <p></p>
 <p></p>
-
-
