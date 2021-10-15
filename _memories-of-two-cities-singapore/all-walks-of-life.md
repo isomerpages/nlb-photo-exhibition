@@ -19,16 +19,16 @@ In this section, photographs of people at work and leisure, as well as group por
     <img alt="Tamil coolies, 1880s" width="500" height="362" src="/images/all-walks-of-life/work-photo-stack-1.png" class="photo-lv-1">
     <img href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work" alt="Chinese coolies, 1900s>
     <img class=" width="500" height="362" src="/images/all-walks-of-life/work-photo-stack-2.png" class="photo-lv-2">
-</div> 
+</div>  
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img src="/images/all-walks-of-life/play-photo-stack-1.png" class="photo-lv-1">
-    <img src="/images/all-walks-of-life/play-photo-stack-2.png" class="photo-lv-2">
-    <img src="/images/all-walks-of-life/play-photo-stack-3.png" class="photo-lv-3">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/play-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/play-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/play-photo-stack-3.png">
   </div>
   <p>People at Play</p>
-  <a href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/" class="cover"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-play/"></a>
 </div>
 
 </div>
@@ -37,12 +37,12 @@ In this section, photographs of people at work and leisure, as well as group por
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img src="/images/all-walks-of-life/family-photo-stack-1.png" class="photo-lv-1">
-    <img src="/images/all-walks-of-life/family-photo-stack-2.png" class="photo-lv-2">
-    <img src="/images/all-walks-of-life/family-photo-stack-3.png" class="photo-lv-3">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/family-photo-stack-1.png">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/family-photo-stack-2.png">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/family-photo-stack-3.png">
   </div>
   <p>With Family and Friends</p>
-  <a href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/" class="cover"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/with-family-and-friends/"></a>
 </div> 
 
 </div></div>
