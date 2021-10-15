@@ -22,7 +22,7 @@ Many&nbsp;impoverished Chinese migrants came to Singapore in the 19th century to
 <p></p>
 <hr>
 
-![Tamil coolies, 1880s](/images/all-walks-of-life/Sub1-2-tamil-coolies-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-2-tamil-coolies-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="659" width="1000" src="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr_400w.jpg" alt="Tamil coolies, 1880s">
 <div class="custom-caption">
 <div><p>Tamil coolies, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore </div>
