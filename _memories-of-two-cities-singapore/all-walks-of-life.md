@@ -16,9 +16,12 @@ In this section, photographs of people at work and leisure, as well as group por
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img alt="Tamil coolies, 1880s" width="500" height="362" src="/images/all-walks-of-life/work-photo-stack-1.png" class="photo-lv-1">
-    <img href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work" alt="Chinese coolies, 1900s>
-    <img class=" width="500" height="362" src="/images/all-walks-of-life/work-photo-stack-2.png" class="photo-lv-2">
+    <img class="photo-lv-1" src="/images/all-walks-of-life/work-photo-stack-1.png" height="362" width="500" alt="Tamil coolies, 1880s">
+    <img class="photo-lv-2" src="/images/all-walks-of-life/work-photo-stack-2.png" height="362" width="500" alt="Chinese coolies, 1900s">
+    <img class="photo-lv-3" src="/images/all-walks-of-life/work-photo-stack-3.png" height="362" width="500" alt="Street hawkers, 1910s">
+  </div>
+  <p>People at Work</p>
+  <a class="cover" href="/memories-of-two-cities-singapore/all-walks-of-life/people-at-work"></a>
 </div>  
   
 <div class="photo-stacked-wrap">
