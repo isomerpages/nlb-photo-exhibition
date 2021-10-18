@@ -66,7 +66,7 @@ Working as an itinerant street hawker was a common occupation among unskilled ea
 <p></p>
 <hr>
 
-![Street Hawkers, 1920s](/images/all-walks-of-life/Sub1-6-street-hawkers-cr.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-6-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-6-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="642" width="1000" src="/images/all-walks-of-life/Sub1-6-street-hawkers-cr_400w.jpg" alt="Street Hawkers, 1920s">
 <div class="custom-caption">
 <div><p>Street Hawkers, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -77,9 +77,7 @@ Hawkers were frequently found along busy streets and intersections peddling cook
 <p></p>
 <hr>
 
-<p class="portrait-resize">
-![Satay hawker, 1900s](/images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg)
-</p>
+<img srcset="/images/all-walks-of-life/Sub1-7-satay-hawker-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1045" width="700" src="/images/all-walks-of-life/Sub1-7-satay-hawker-cr_400w.jpg" alt="Satay hawker, 1900s">
 <div class="custom-caption">
 <div><p>Satay hawker, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -90,9 +88,7 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <p></p>
 <hr>
 
-<p class="portrait-resize">
-![Hawker selling snacks, 1900s](/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg)
-</p>
+<img srcset="/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1057" width="700" src="/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr_400w.jpg" alt="Hawker selling snacks, 1900s">
 <div class="custom-caption">
 <div><p>Hawker selling snacks, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -104,7 +100,7 @@ Indian hawkers who sold snacks often carried a basket containing their wares on 
 <hr>
 
 
-![Workers at a pepper plantation, 1890s](/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation.jpg)
+<img srcset="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg 400w, /images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="774" width="1000" src="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg" alt="Workers at a pepper plantation, 1890s">
 <div class="custom-caption">
 <div><p>Workers at a pepper plantation, 1890s</p></div>
 <div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
@@ -115,7 +111,7 @@ Gambier and pepper were two of the most important crops grown in Malaya in the 1
 <p></p>
 <hr>
 
-![Fishermen at seashore, 1909](/images/all-walks-of-life/Sub1-11-fishermen-at-seashore.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-11-fishermen-at-seashore_400w.jpg 400w, /images/all-walks-of-life/Sub1-11-fishermen-at-seashore_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="713" width="1000" src="/images/all-walks-of-life/Sub1-11-fishermen-at-seashore_400w.jpg" alt="Fishermen at seashore, 1909">
 <div class="custom-caption">
 <div><p>Fishermen at seashore, 1909</p></div>
 <div>Edward William Newell Collection, courtesy of National Archives of Singapore</div>
@@ -126,7 +122,7 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 <p></p>
 <hr>
 
-![Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925](/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg)
+<img srcset="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg 400w, /images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="750" width="1000" src="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925">
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
 <div>Collection ABN AMRO Art &amp; History Department, Amsterdam, courtesy of National Archives of Singapore</div>
