@@ -122,7 +122,7 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg 400w, /images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="750" width="1000" src="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925">
+<img srcset="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg 400w, /images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="722" width="958" src="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925">
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
 <div>Collection ABN AMRO Art &amp; History Department, Amsterdam, courtesy of National Archives of Singapore</div>
