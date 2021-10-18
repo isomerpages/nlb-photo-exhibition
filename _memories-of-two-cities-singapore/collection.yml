@@ -1,0 +1,10 @@
+collections:
+  memories-of-two-cities-singapore:
+    output: true
+    order:
+      - places-of-power-and-worship.md
+      - tropical-metropolis.md
+      - centres-of-commerce.md
+      - all-walks-of-life.md
+      - colourful-customs.md
+      - a-city-in-motion.md

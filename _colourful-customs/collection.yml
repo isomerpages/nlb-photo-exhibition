@@ -1,0 +1,7 @@
+collections:
+  colourful-customs:
+    output: true
+    order:
+      - colourful-customs/.keep
+      - colourful-customs/weddings-and-funerals.md
+      - colourful-customs/festive-celebrations.md
