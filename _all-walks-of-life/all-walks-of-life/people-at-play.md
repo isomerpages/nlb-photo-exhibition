@@ -107,7 +107,7 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <p></p>
 <hr>
 
-<img alt="Hunting party, 1930" src="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg" width="1000" height="722" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-10-hunting-party-cr_1000w.jpg 1000w">
+<img alt="Hunting party, 1930" src="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg" width="682" height="958" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg 958w">
 <div class="custom-caption">
 <div><p>Hunting party, 1930</p></div>
 <div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
