@@ -130,7 +130,6 @@ The apparel of this family is a mix of Western and Asian garments. While the res
 <p></p>
 <hr>
 
-![European family with Chinese amah, 1900s](/images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah.jpg)
 <img alt="European family with Chinese amah, 1900s" src="/images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah_400w.jpg" width="700" height="911" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah_400w.jpg 400w, //images/all-walks-of-life/Sub3-11-european-family-with-chinese-amah.jpg 700w">
 <div class="custom-caption">
 <div><p>European family with Chinese <i>amah</i>, 1900s</p></div>
