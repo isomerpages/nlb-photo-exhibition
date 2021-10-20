@@ -111,7 +111,7 @@ On the morning of Hari Raya Puasa, it is customary for Muslim men to visit the m
 <p></p>
 <hr>
 
-<img alt="Malays celebrating Hari Raya Puasa, 1963" src="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg" width="1000" height="1017" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg 400w, /images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_1000w.jpg 1000w">
+<img alt="Malays celebrating Hari Raya Puasa, 1963" src="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg" width="700" height="699" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa_400w.jpg 400w, /images/colourful-customs/Sub2-10-malays-celebrating-hari-raya-puasa.jpg 700w">
 <div class="custom-caption">
 <div><p>Malays celebrating Hari Raya Puasa, 1963</p></div>
 <div>Singapore Press Holdings Collection, courtesy of National Archives of Singapore</div>
