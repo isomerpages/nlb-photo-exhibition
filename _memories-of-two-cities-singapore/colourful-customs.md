@@ -16,22 +16,22 @@ The rites of passage and festive traditions of the various communities are diver
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/colourful-customs/wedding-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/colourful-customs/wedding-photo-stack-1.png" height="362" width="500" alt="Indian wedding at a Hindu temple, 1961">
+    <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png" height="362" width="500" alt="Malay wedding procession, 1930s">
+    <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png" height="362" width="500" alt="Eurasian wedding studio portrait, 1920s">
   </div>
   <p>Weddings and Funerals</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/" aria-label="Read more about Weddings and Funerals"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/colourful-customs/festive-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/colourful-customs/festive-photo-stack-1.png" height="362" width="500" alt="Stall selling lanterns for the Mid-Autumn Festival, 1954">
+    <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png" height="362" width="500" alt="Christmas meal of expatriates, 1953">
+    <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png" height="362" width="500" alt="Nativity play, 1930s">
   </div>
   <p>Festive Celebrations</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/" aria-label="Read more about Festive Celebrations"></a>
 </div>
 
 </div>
