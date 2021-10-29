@@ -87,7 +87,7 @@ In the 1820s, Tanjong Katong, a coastal area in eastern Singapore, was part of l
  
 <hr>
 
-<img alt="Beach at Tanjong Katong, 1920s" src="/images/Sub3-9_400w.jpg" width="700" height="1005" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/Sub3-9_400w.jpg 400w, /images/Sub3-9_1000w.jpg 700w">
+<img alt="Beach at Tanjong Katong, 1920s" src="/images/Sub3-9_400w.jpg" width="700" height="1005" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/Sub3-9_400w.jpg 400w, /images/Sub3-9.jpg 700w">
 <div class="custom-caption">
 <div><p>Beach at Tanjong Katong, 1920s</p></div>
 <div>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore</div>
