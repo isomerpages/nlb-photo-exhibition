@@ -14,7 +14,6 @@ Raffles Place and its surrounding areas have undergone tremendous change over ti
 
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![Fullerton Square, 1900s](/images/centres-of-commerce/Sub1-1-fullerton-square-cr.jpg)
 <img alt="Fullerton Square, 1900s" src="/images/centres-of-commerce/Sub1-1-fullerton-square-cr_400w.jpg" width="700" height="1012" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/centres-of-commerce/Sub1-1-fullerton-square-cr_400w.jpg 400w, /images/centres-of-commerce/Sub1-1-fullerton-square-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Fullerton Square, 1900s</p></div>
