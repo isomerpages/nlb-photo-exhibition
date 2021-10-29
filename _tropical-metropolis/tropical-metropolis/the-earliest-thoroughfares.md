@@ -67,7 +67,7 @@ The Fullerton Building has been a prominent landmark on the Singapore waterfront
 <hr>
 
 
-<img alt="Mouth of the Singapore River, c. 1910" src="/images/Sub1-6.jpg_400w.jpg" width="1000" height="636" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-6.jpg_400w.jpg 400w, /images/Sub1-6.jpg_1000w.jpg 1000w">
+<img alt="Mouth of the Singapore River, c. 1910" src="/images/Sub1-6_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-6_400w.jpg 400w, /images/Sub1-6_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Mouth of the Singapore River, c. 1910</p></div>
 <div>Courtesy of National Archives of Singapore</div>
