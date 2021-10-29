@@ -1,18 +1,16 @@
 ---
-title: 'The Earliest Thoroughfares'
+title: The Earliest Thoroughfares
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/the-earliest-thoroughfares/
-breadcrumb: 'The Earliest Thoroughfares'
-third_nav_title: 'Tropical Metropolis'
-
+breadcrumb: The Earliest Thoroughfares
+third_nav_title: Tropical Metropolis
 ---
-
 Singapore’s development into a major port was closely linked to its strategic geographical location and natural deep-water harbour. With the establishment of Singapore as a trading port in 1819, the mouth of the Singapore River functioned as a harbour at which ships called. Thus, the city’s earliest thoroughfare developed around this area, with Collyer Quay and the north banks of the river being the first business and civic centre. The first streets such as High Street, North Bridge Road and South Bridge Road were laid out here. This section features selected scenes and landmarks of the historic city centre.
 
 <p></p>
 
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![Johnston’s Pier and Collyer Quay, 1900s](/images/Sub1-1-Johnstons-Pier-And-Collyer-Quay.jpg)
+<img alt="Johnston’s Pier and Collyer Quay, 1900s" src="/images/Sub1-1-Johnstons-Pier-And-Collyer-Quay_400w.jpg" width="1000" height="644" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-1-Johnstons-Pier-And-Collyer-Quay_400w.jpg 400w, /images/Sub1-1-Johnstons-Pier-And-Collyer-Quay_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Johnston’s Pier and Collyer Quay, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -23,7 +21,7 @@ Constructed in 1856, Johnston’s Pier was where most visitors first set foot on
 <p></p>
 <hr>
 
-![Collyer Quay, 1880s](/images/Sub1-2-Quay.jpg)
+<img alt="Collyer Quay, 1880s" src="/images/Sub1-2-Quay_400w.jpg" width="1000" height="818" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-2-Quay_400w.jpg 400w, /images/Sub1-2-Quay_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Collyer Quay, 1880s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -34,7 +32,7 @@ This view of Collyer Quay from Johnston's Pier shows the Singapore waterfront, w
 <hr>
 
 
-![Commercial Square, 1900s](/images/Sub1-3-Commercial-Square.jpg)
+<img alt="Commercial Square, 1900s" src="/images/Sub1-3-Commercial-Square_400w.jpg" width="1000" height="782" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-3-Commercial-Square_400w.jpg 400w, /images/Sub1-3-Commercial-Square_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Collyer Quay, 1900s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -45,7 +43,7 @@ Major commercial buildings occupied the waterfront at Collyer Quay. Seen here is
 <hr>
 
 
-![Singapore waterfront, 1930s](/images/Sub1-4-singapore-waterfront.jpg)
+<img alt="Singapore waterfront, 1930s" src="/images/Sub1-4-singapore-waterfront_400w.jpg" width="1000" height="638" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-4-singapore-waterfront_400w.jpg 400w, /images/Sub1-4-singapore-waterfront_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Singapore waterfront, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -57,7 +55,7 @@ By the 1930s, many commercial buildings along Collyer Quay had been replaced by 
 <hr>
 
 
-![Fullerton Building, c. 1930](/images/Sub1-5-General-Post-Office-And-Singapore-Clubfullerton.jpg)
+<img alt="Fullerton Building, c. 1930" src="/images/Sub1-5-General-Post-Office-And-Singapore-Clubfullerton_400w.jpg" width="1000" height="653" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-5-General-Post-Office-And-Singapore-Clubfullerton_400w.jpg 400w, /images/Sub1-5-General-Post-Office-And-Singapore-Clubfullerton_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Fullerton Building, c. 1930</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -69,7 +67,7 @@ The Fullerton Building has been a prominent landmark on the Singapore waterfront
 <hr>
 
 
-![Mouth of the Singapore River, c. 1910](/images/Sub1-6.jpg)
+<img alt="Mouth of the Singapore River, c. 1910" src="/images/Sub1-6.jpg_400w.jpg" width="1000" height="636" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-6.jpg_400w.jpg 400w, /images/Sub1-6.jpg_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Mouth of the Singapore River, c. 1910</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -81,7 +79,7 @@ This area near the mouth the Singapore River is known as Empress Place, where co
 <hr>
 
 
-![Empress Place, 1930s](/images/Sub1-7-Town-Hall.jpg)
+<img alt="Empress Place, 1930s" src="/images/Sub1-7-Town-Hall_400w.jpg" width="1000" height="644" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-7-Town-Hall_400w.jpg 400w, /images/Sub1-7-Town-Hall_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Empress Place, 1930s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -93,7 +91,7 @@ On the left foreground is the Dalhousie Obelisk, Singapore’s first public stat
 <hr>
 
 
-![Cavenagh Bridge, 1894](/images/Sub1-8-Cavenagh-Bridge.jpg)
+<img alt="Cavenagh Bridge, 1894" src="/images/Sub1-8-Cavenagh-Bridge_400w.jpg" width="1000" height="778" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-8-Cavenagh-Bridge_400w.jpg 400w, /images/Sub1-8-Cavenagh-Bridge_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Cavenagh Bridge, 1894</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -104,7 +102,7 @@ Completed in 1869 to celebrate the 50th anniversary of the founding of Singapore
 <hr>
 
 
-![High Street, 1890](/images/Sub1-9-Hotel-Del-Europe-High-Street.jpg)
+<img alt="High Street, 1890" src="/images/Sub1-9-Hotel-Del-Europe-High-Street_400w.jpg" width="1000" height="784" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-9-Hotel-Del-Europe-High-Street_400w.jpg 400w, /images/Sub1-9-Hotel-Del-Europe-High-Street_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>High Street, 1890</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -115,7 +113,7 @@ Cleared from part of the jungle near the shore in 1819, High Street was the fir
 <hr>
 
 
-![North Bridge Road, 1910s](/images/Sub1-10-North-Bridge-Road.jpg)
+<img alt="North Bridge Road, 1910s" src="/images/Sub1-10-North-Bridge-Road_400w.jpg" width="1000" height="660" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-10-North-Bridge-Road_400w.jpg 400w, /images/Sub1-10-North-Bridge-Road_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>North Bridge Road, 1910s</p></div>
 <div>Lim Kheng Chye Collection, Courtesy of National Archives Singapore.</div>
@@ -127,7 +125,7 @@ North Bridge Road was one of the earliest roads to be constructed in Singapore. 
 <hr>
 
 
-![South Bridge Road, 1890s](/images/Sub1-11-Central-Police-Station-And-Police-Court.jpg)
+<img alt="South Bridge Road, 1890s" src="/images/Sub1-11-Central-Police-Station-And-Police-Court_400w.jpg" width="1000" height="816" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-11-Central-Police-Station-And-Police-Court_400w.jpg 400w, /images/Sub1-11-Central-Police-Station-And-Police-Court_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>South Bridge Road, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -138,7 +136,7 @@ South Bridge Road has been known by its name since early 1820s, before a proper 
 <hr>
 
 
-![South Bridge Road, 1890s](/images/Sub1-12-North-Bridge-Road.jpg)
+<img alt="South Bridge Road, 1890s" src="/images/Sub1-12-North-Bridge-Road_400w.jpg" width="1000" height="786" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub1-12-North-Bridge-Road_400w.jpg 400w, /images/Sub1-12-North-Bridge-Road_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>South Bridge Road, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -146,4 +144,3 @@ South Bridge Road has been known by its name since early 1820s, before a proper 
 While South Bridge Road is the main street in Chinatown, it is home to places of worship for other communities, showing the multi-cultural nature of public spaces in Singapore since the early days. Seen here is the Sri Mariamman Temple in the centre, a Hindu temple that was first constructed 1827, and Jamae Mosque on the right, which was built in 1826. Both of these sites of worship are now national monuments.
 <p></p>
 <p></p>
-
