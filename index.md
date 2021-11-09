@@ -16,7 +16,7 @@ sections:
         Singapore.
       url: /memories-of-two-cities-singapore/
       image: /images/sg-exhibition-home.png
-      alt: alt text
+      alt: A city and cart
       button: Find Out More
   - infopic:
       title: Memories of Two Cities - Beijing
@@ -29,7 +29,7 @@ sections:
         pre-1949 Beijing.
       url: https://www.bjmem.com.cn/TwinsHistory/
       image: /images/china-exhibition-home.png
-      alt: alt text
+      alt: A city and wedding couple
       button: Find Out More
 notification: ""
 ---
