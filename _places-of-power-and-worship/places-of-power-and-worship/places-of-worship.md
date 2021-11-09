@@ -117,7 +117,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 </div>
 <hr>
 
-![Armenian Church of Saint Gregory the Illuminator, 1962](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
+<img alt="Armenian Church of Saint Gregory the Illuminator, 1962" src="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg 400w, /images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Armenian Church of Saint Gregory the Illuminator, 1962</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -128,7 +128,7 @@ Built by the local Armenian community in 1836, the Armenian Church is the oldest
 <p></p>
 <hr>
 
-![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
+<img alt="Cathedral of the Good Shepherd, 1900s" src="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg" width="1000" height="646" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg 400w, /images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Cathedral of the Good Shepherd, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -140,8 +140,7 @@ worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapo
 <p></p>
 <hr>
 
-![Chapel of the Convent of the Holy Infant Jesus, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
-
+<img alt="Chapel of the Convent of the Holy Infant Jesus, 1900s" src="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1098" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Chapel of the Convent of the Holy Infant Jesus, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore </div>
@@ -153,8 +152,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <p></p>
 <hr>
 
-![Interior of the Convent of the Holy Infant Jesus Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
-
+<img alt="Interior of the Convent of the Holy Infant Jesus Chapel, 1900s" src="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1057" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Interior of the Convent of the Holy Infant Jesus Chapel, 1900s</p></div>
 <div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
@@ -162,7 +160,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 </div>
 <hr>
 
-![St. Andrew’s Cathedral, 1910](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
+<img alt="St. Andrew’s Cathedral, 1910" src="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg 400w, /images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>St. Andrew’s Cathedral, 1910</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -174,7 +172,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <hr>
 
 ![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
-
+<img alt="St. Andrew’s Cathedral, 1950s" src="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg" width="700" height="980" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg 400w, /images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg 700w">
 <div class="custom-caption">
 <div><p>St. Andrew’s Cathedral, 1950s</p></div>
 <div>George Tricker Collection, courtesy of National Archives of Singapore</div>
@@ -182,7 +180,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 </div>
 <hr>
 
-![Sri Mariamman Temple, 1905](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
+<img alt="Sri Mariamman Temple, 1905" src="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Sri Mariamman Temple, 1905</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -194,7 +192,7 @@ Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapor
 <hr>
 
 ![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
-
+<img alt="Sri Mariamman Temple, 1950s" src="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg" width="700" height="1151" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg 400w, /images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg 700w">
 <div class="custom-caption">
 <div><p>Sri Mariamman Temple, 1950s</p></div>
 <div>Nelson Collection, courtesy of National Archives of Singapore</div>
