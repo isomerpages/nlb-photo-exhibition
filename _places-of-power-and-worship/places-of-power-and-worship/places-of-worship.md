@@ -47,7 +47,6 @@ with the Chinese characters “波靖南溟” (_bo jing nan ming_), which trans
 
 <img alt="Yueh Hai Ching Temple, 1955" src="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg 400w, /images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_1000w.jpg 1000w">
 <div class="custom-caption">
-<div class="custom-caption">
 <div><p>Yueh Hai Ching Temple, 1955</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
 <div>19980005860 - 0051</div>
