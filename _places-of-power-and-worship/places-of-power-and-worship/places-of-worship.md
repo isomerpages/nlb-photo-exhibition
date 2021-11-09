@@ -75,7 +75,7 @@ Constructed between 1898 and 1908, Siong Lim Temple (双林寺) is the oldest Bu
 <p></p>
 <hr>
 
-<img alt="Jamae Mosque" src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
+<img alt="Jamae Mosque' src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Jamae Mosque, 1930</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -87,7 +87,7 @@ The Chulias were Muslims from South India, many of whom worked as merchants, sho
 <p></p>
 <hr>
 
-![Nagore Durgha Shrine, 1880s](/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr.jpg)
+<img alt="Nagore Durgha Shrine, 1880s" src="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg 400w, /images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Nagore Durgha Shrine, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
@@ -98,8 +98,7 @@ Nagore Durgha Shrine at Telok Ayer Street, dedicated to Shahul Hamid Durgha, a h
 <p></p>
 <hr>
 
-![Sultan Mosque, 1930s](/images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg)
-
+<img alt="Sultan Mosque, 1930s" src="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg" width="700" height="1108" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Sultan Mosque, 1930s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -110,8 +109,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 <p></p>
 <hr>
 
-![Interior of Sultan mosque, 1954](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
-
+<img alt="Interior of Sultan mosque, 1954" src="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg" width="700" height="993" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Interior of Sultan mosque, 1954</p></div>
 <div>Donal Moore Collection, courtesy of National Archives of Singapore </div>
