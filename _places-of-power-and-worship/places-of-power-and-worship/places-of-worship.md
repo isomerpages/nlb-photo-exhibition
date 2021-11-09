@@ -170,7 +170,6 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <p></p>
 <hr>
 
-![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
 <img alt="St. Andrew’s Cathedral, 1950s" src="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg" width="700" height="980" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg 400w, /images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg 700w">
 <div class="custom-caption">
 <div><p>St. Andrew’s Cathedral, 1950s</p></div>
