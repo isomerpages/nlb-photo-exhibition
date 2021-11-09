@@ -74,7 +74,7 @@ Constructed between 1898 and 1908, Siong Lim Temple (双林寺) is the oldest Bu
 <p></p>
 <hr>
 
-<img alt="Jamae Mosque' src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
+<img alt=" Jamae Mosque" src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Jamae Mosque, 1930</p></div>
 <div>Courtesy of National Archives of Singapore</div>
