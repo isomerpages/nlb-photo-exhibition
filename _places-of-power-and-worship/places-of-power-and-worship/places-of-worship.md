@@ -189,7 +189,6 @@ Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapor
 <p></p>
 <hr>
 
-![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
 <img alt="Sri Mariamman Temple, 1950s" src="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg" width="700" height="1151" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg 400w, /images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg 700w">
 <div class="custom-caption">
 <div><p>Sri Mariamman Temple, 1950s</p></div>
