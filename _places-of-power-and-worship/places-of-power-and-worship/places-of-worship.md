@@ -11,7 +11,7 @@ were built at major thoroughfares and became important landmarks. Many historic 
 <p></p>
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr.jpg)
+<img alt="Thian Hock Keng Temple, 1900s" src="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg" width="1000" height="653" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Thian Hock Keng Temple, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
