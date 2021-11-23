@@ -1,12 +1,9 @@
 ---
-title: 'Colourful Customs'
+title: Colourful Customs
 permalink: /memories-of-two-cities-singapore/colourful-customs/
-breadcrumb: 'Colourful Customs'
-
+breadcrumb: Colourful Customs
 ---
-
-
-![Peranakan wedding, 1925](/images/colourful-customs/colourful-customs-banner.jpg)
+<img alt="Peranakan wedding, 1925" src="/images/colourful-customs/colourful-customs-banner_400w.jpg" width="1000" height="461" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/colourful-customs-banner_400w.jpg 400w, /images/colourful-customs/colourful-customs-banner_1000w.jpg 1000w">
 ### **Colourful Customs**
 
 Singapore is known for its rich and colourful traditions and practices, thanks to the diversity of the communities that reside here. The myriad customs are given full expression on significant occasions such as weddings, funerals, and festive celebrations. As seen in the historical photographs in this section, they have been practised in Singapore since its early days.  
@@ -19,22 +16,22 @@ The rites of passage and festive traditions of the various communities are diver
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/colourful-customs/wedding-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/colourful-customs/wedding-photo-stack-1.png" height="362" width="500" alt="Indian wedding at a Hindu temple, 1961">
+    <img class="photo-lv-2" src="/images/colourful-customs/wedding-photo-stack-2.png" height="362" width="500" alt="Malay wedding procession, 1930s">
+    <img class="photo-lv-3" src="/images/colourful-customs/wedding-photo-stack-3.png" height="362" width="500" alt="Eurasian wedding studio portrait, 1920s">
   </div>
   <p>Weddings and Funerals</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/weddings-and-funerals/" aria-label="Read more about Weddings and Funerals"></a>
 </div> 
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/colourful-customs/festive-photo-stack-1.png">
-    <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png">
-    <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png">
+    <img class="photo-lv-1" src="/images/colourful-customs/festive-photo-stack-1.png" height="362" width="500" alt="Stall selling lanterns for the Mid-Autumn Festival, 1954">
+    <img class="photo-lv-2" src="/images/colourful-customs/festive-photo-stack-2.png" height="362" width="500" alt="Christmas meal of expatriates, 1953">
+    <img class="photo-lv-3" src="/images/colourful-customs/festive-photo-stack-3.png" height="362" width="500" alt="Nativity play, 1930s">
   </div>
   <p>Festive Celebrations</p>
-  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/"></a>
+  <a class="cover" href="/memories-of-two-cities-singapore/colourful-customs/festive-celebrations/" aria-label="Read more about Festive Celebrations"></a>
 </div>
 
 </div>

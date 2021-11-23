@@ -1,19 +1,17 @@
 ---
-title: 'Places of Worship'
+title: Places of Worship
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/places-of-worship/
-breadcrumb: 'Places of Worship'
-third_nav_title: 'Places of Power and Worship'
-
+breadcrumb: Places of Worship
+third_nav_title: Places of Power and Worship
 ---
-
 Migrant society in early Singapore was characterised by religious diversity. Immigrants from China, India and the Malay Archipelago brought their religious beliefs and established their respective places of worship. Europeans and Western missionaries set up churches, schools and printing presses. Major religions of the world were represented on the island, with Buddhism, Taoism, Islam, Hinduism and Christianity as the major religions of the population. Apart from catering to the spiritual needs of immigrants, these institutions also served as social hubs, playing an important role in people’s lives.
 
 The various religious communities gave Singapore a rich architectural landscape. Remarkable mosques, churches, Chinese and Hindu temples
 were built at major thoroughfares and became important landmarks. Many historic buildings of these institutions are now gazetted as national monuments and continue to serve as places of worship or community heritage centres.
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr.jpg)
+<img alt="Thian Hock Keng Temple, 1900s" src="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg" width="1000" height="653" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-1-thian-hock-keng-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Thian Hock Keng Temple, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -24,7 +22,7 @@ Thian Hock Keng (天福宫, ‘Temple of Heavenly Happiness’ in Chinese) on Te
 <p></p>
 <hr>
 
-![Chongwen Ge beside Thian Hock Keng Temple, 1900s](/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr.jpg)
+<img alt="Chongwen Ge beside Thian Hock Keng Temple, 1900s" src="/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_400w.jpg" width="1000" height="687" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-2-thian-hock-keng-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Chongwen Ge beside Thian Hock Keng Temple, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -35,7 +33,7 @@ Chongwen Ge (崇文阁, ‘Institute for the Veneration of Literature’ in Mand
 <p></p>
 <hr>
 
-![Thian Hock Keng Temple, 1953](/images/power-and-worship/Sub2-3-thian-hock-keng-temple.jpg)
+<img alt="Thian Hock Keng Temple, 1953" src="/images/power-and-worship/Sub2-3-thian-hock-keng-temple_400w.jpg" width="1000" height="747" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-3-thian-hock-keng-temple_400w.jpg 400w, /images/power-and-worship/Sub2-3-thian-hock-keng-temple_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Thian Hock Keng Temple, 1953 </p></div>
 <div>Arthur B Reich Collection, courtesy of National Archives of Singapore</div>
@@ -47,7 +45,7 @@ with the Chinese characters “波靖南溟” (_bo jing nan ming_), which trans
 <p></p>
 <hr>
 
-![Yueh Hai Ching Temple, 1955](/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr.jpg)
+<img alt="Yueh Hai Ching Temple, 1955" src="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_400w.jpg 400w, /images/power-and-worship/Sub2-4-wak-hai-cheng-bio-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Yueh Hai Ching Temple, 1955</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore</div>
@@ -58,14 +56,14 @@ Yueh Hai Ching Temple (粤海清庙) was established by local Teochew immigrants
 <p></p>
 <hr>
 
-![Siong Lim Temple, 1900s](/images/power-and-worship/Sub2-5-siong-lim-temple.jpg)
+<img alt="Siong Lim Temple, 1900s" src="/images/power-and-worship/Sub2-5-siong-lim-temple_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-5-siong-lim-temple_400w.jpg 400w, /images/power-and-worship/Sub2-5-siong-lim-temple_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Siong Lim Temple, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005888 – 0048</div>
 </div>
 
-![Siong Lim Temple, 1910s](/images/power-and-worship/Sub2-6-siong-lim-temple-cr.jpg)
+<img alt="Siong Lim Temple, 1910s" src="/images/power-and-worship/Sub2-6-siong-lim-temple-cr_400w.jpg" width="1000" height="625" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-6-siong-lim-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-6-siong-lim-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Siong Lim Temple, 1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -76,9 +74,7 @@ Constructed between 1898 and 1908, Siong Lim Temple (双林寺) is the oldest Bu
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Jamae Mosque, 1930](/images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg)
-</p>
+<img alt=" Jamae Mosque" src="/images/power-and-worship/Sub2-7-jamae-mosque-cr_400w.jpg" width="700" height="990" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/power-and-worship/Sub2-7-jamae-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Jamae Mosque, 1930</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -90,7 +86,7 @@ The Chulias were Muslims from South India, many of whom worked as merchants, sho
 <p></p>
 <hr>
 
-![Nagore Durgha Shrine, 1880s](/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr.jpg)
+<img alt="Nagore Durgha Shrine, 1880s" src="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_400w.jpg 400w, /images/power-and-worship/Sub2-8-nagore-durgha-shrine-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Nagore Durgha Shrine, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore</div>
@@ -101,9 +97,7 @@ Nagore Durgha Shrine at Telok Ayer Street, dedicated to Shahul Hamid Durgha, a h
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Sultan Mosque, 1930s](/images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg)
-</p>
+<img alt="Sultan Mosque, 1930s" src="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg" width="700" height="1108" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-9-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-9-sultan-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Sultan Mosque, 1930s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -114,9 +108,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Interior of Sultan mosque, 1954](/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg)
-</p>
+<img alt="Interior of Sultan mosque, 1954" src="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg" width="700" height="993" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr_400w.jpg 400w, /images/power-and-worship/Sub2-10-interior-of-sultan-mosque-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Interior of Sultan mosque, 1954</p></div>
 <div>Donal Moore Collection, courtesy of National Archives of Singapore </div>
@@ -124,7 +116,7 @@ The original Sultan Mosque, located next to the Istana (palace) at Kampong Glam,
 </div>
 <hr>
 
-![Armenian Church of Saint Gregory the Illuminator, 1962](/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory.jpg)
+<img alt="Armenian Church of Saint Gregory the Illuminator, 1962" src="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_400w.jpg 400w, /images/power-and-worship/Sub2-11-armenian-church-of-saint-gregory_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Armenian Church of Saint Gregory the Illuminator, 1962</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -135,7 +127,7 @@ Built by the local Armenian community in 1836, the Armenian Church is the oldest
 <p></p>
 <hr>
 
-![Cathedral of the Good Shepherd, 1900s](/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd.jpg)
+<img alt="Cathedral of the Good Shepherd, 1900s" src="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg" width="1000" height="646" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_400w.jpg 400w, /images/power-and-worship/Sub2-13-cathedral-of-the-good-shepherd_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Cathedral of the Good Shepherd, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -147,9 +139,7 @@ worship and is the Cathedral Church of the Roman Catholic Archdiocese of Singapo
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Chapel of the Convent of the Holy Infant Jesus, 1900s](/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
-</p>
+<img alt="Chapel of the Convent of the Holy Infant Jesus, 1900s" src="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1098" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-14-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Chapel of the Convent of the Holy Infant Jesus, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore </div>
@@ -161,9 +151,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Interior of the Convent of the Holy Infant Jesus Chapel, 1900s](/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg)
-</p>
+<img alt="Interior of the Convent of the Holy Infant Jesus Chapel, 1900s" src="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg" width="700" height="1057" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr_400w.jpg 400w, /images/power-and-worship/Sub2-15-interior-of-the-convent-of-the-holy-infant-jesus-chapel-cr.jpg 700w">
 <div class="custom-caption">
 <div><p>Interior of the Convent of the Holy Infant Jesus Chapel, 1900s</p></div>
 <div>Arshak C Galstaun Collection, courtesy of National Archives of Singapore</div>
@@ -171,7 +159,7 @@ nun&#39;s quarters, and chapel. The Gothic chapel, completed in 1903, features d
 </div>
 <hr>
 
-![St. Andrew’s Cathedral, 1910](/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr.jpg)
+<img alt="St. Andrew’s Cathedral, 1910" src="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_400w.jpg 400w, /images/power-and-worship/Sub2-16-st-andrews-cathedral-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>St. Andrew’s Cathedral, 1910</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -182,9 +170,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![St. Andrew’s Cathedral, 1950s](/images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg)
-</p>
+<img alt="St. Andrew’s Cathedral, 1950s" src="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg" width="700" height="980" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-17-st-andrews-cathedral_400w.jpg 400w, /images/power-and-worship/Sub2-17-st-andrews-cathedral.jpg 700w">
 <div class="custom-caption">
 <div><p>St. Andrew’s Cathedral, 1950s</p></div>
 <div>George Tricker Collection, courtesy of National Archives of Singapore</div>
@@ -192,7 +178,7 @@ In 1823, Sir Stamford Raffles selected a site near the Padang to build an Anglic
 </div>
 <hr>
 
-![Sri Mariamman Temple, 1905](/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr.jpg)
+<img alt="Sri Mariamman Temple, 1905" src="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_400w.jpg 400w, /images/power-and-worship/Sub2-18-sri-mariamman-temple-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Sri Mariamman Temple, 1905</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -203,9 +189,7 @@ Sri Mariamman Temple on South Bridge Road is the oldest Hindu temple in Singapor
 <p></p>
 <hr>
 
-<p class="portrait-resize" markdown="1">
-![Sri Mariamman Temple, 1950s](/images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg)
-</p>
+<img alt="Sri Mariamman Temple, 1950s" src="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg" width="700" height="1151" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/power-and-worship/Sub2-19-sri-mariamman-temple_400w.jpg 400w, /images/power-and-worship/Sub2-19-sri-mariamman-temple.jpg 700w">
 <div class="custom-caption">
 <div><p>Sri Mariamman Temple, 1950s</p></div>
 <div>Nelson Collection, courtesy of National Archives of Singapore</div>

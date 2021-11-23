@@ -1,18 +1,15 @@
 ---
-title: 'High Life in the City'
+title: High Life in the City
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/
-breadcrumb: 'High Life in the City'
-third_nav_title: 'Tropical Metropolis'
-
+breadcrumb: High Life in the City
+third_nav_title: Tropical Metropolis
 ---
-
-
 As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. The opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, and accommodation, retail and entertainment facilities flourished to cater for the needs of international travellers. This section showcases what Singapore had to offer when high living was called for – world-class hotels, modern department stores, shopping belts, as well as entertainment to suit every taste and budget.
 
 <p></p>
-![---](/images/partition.jpg)
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-![Raffles Hotel, 1900s](/images/Sub2-1-Raffles-Hotel.jpg)
+<img alt="Raffles Hotel, 1900s" src="/images/Sub2-1-Raffles-Hotel_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-1-Raffles-Hotel_400w.jpg 400w, /images/Sub2-1-Raffles-Hotel_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Raffles Hotel, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -22,7 +19,7 @@ Raffles Hotel was established in 1887 by Armenian hoteliers the Sarkies brothers
 
 <hr>
 
-![Raffles Hotel Ballroom, 1900s](/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel.jpg)
+<img alt="Raffles Hotel Ballroom, 1900s" src="/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_400w.jpg" width="1000" height="629" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_400w.jpg 400w, /images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Raffles Hotel Ballroom, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -32,7 +29,7 @@ Raffles Hotel was renowned for parties and banquets at its ballroom, where guest
 
 <hr>
 
-![Grand Hotel de l’Europe, 1910s](/images/Sub2-3-Hotel-De-Europe.jpg)
+<img alt="Grand Hotel de l’Europe, 1910s" src="/images/Sub2-3-Hotel-De-Europe_400w.jpg" width="1000" height="663" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-3-Hotel-De-Europe_400w.jpg 400w, /images/Sub2-3-Hotel-De-Europe_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Grand Hotel de l’Europe, 1910s</p></div>
 <div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>
@@ -42,7 +39,7 @@ English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, onc
 
 <hr>
 
-![Dining Room at Grand Hotel de l’Europe, 1910s](/images/Sub2-4-Dining-Room.jpg)
+<img alt="Dining Room at Grand Hotel de l’Europe, 1910s" src="/images/Sub2-4-Dining-Room_400w.jpg" width="1000" height="795" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-4-Dining-Room_400w.jpg 400w, /images/Sub2-4-Dining-Room_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
 <div>Collection of National Library Singapore</div>
@@ -52,7 +49,7 @@ Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and
 
 <hr>
 
-![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
+<img alt="Shopfront of John Little & Co., 1890s" src="/images/Sub2-5-Raffles-Square_400w.jpg" width="1000" height="784" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-5-Raffles-Square_400w.jpg 400w, /images/Sub2-5-Raffles-Square_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Shopfront of John Little &amp; Co., 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -62,7 +59,7 @@ Founded in 1842, John Little was Singapore's oldest department store. Often adve
 
 <hr>
 
-![Interior of John Little, c.1910s](/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises.jpg)
+<img alt="Interior of John Little, c.1910s" src="/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_400w.jpg" width="1000" height="627" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_400w.jpg 400w, /images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Interior of John Little, c.1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -73,7 +70,7 @@ This photograph shows the main stairs of John Little’s new three-storey buildi
 
 <hr>
 
-![High Street, 1920s](/images/Sub2-7-High-Street.jpg)
+<img alt="High Street, 1920s" src="/images/Sub2-7-High-Street_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-7-High-Street_400w.jpg 400w, /images/Sub2-7-High-Street_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>High Street, 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -84,7 +81,7 @@ From the turn of the century until the 1960s, High Street was a popular shopping
 
 <hr>
 
-![Capitol Theatre, 1947](/images/Sub2-8-Capitol-Theatre.jpg)
+<img alt="Capitol Theatre, 1947" src="/images/Sub2-8-Capitol-Theatre_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-8-Capitol-Theatre_400w.jpg 400w, /images/Sub2-8-Capitol-Theatre_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Capitol Theatre, 1947</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -94,7 +91,7 @@ Capitol Theatre, which opened in 1930, was regarded as one of the finest cinemas
 
 <hr>
 
-![Interior of Capitol Theatre, 1930](/images/Sub2-9.jpg)
+<img alt="Interior of Capitol Theatre, 1930" src="/images/Sub2-9_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-9_400w.jpg 400w, /images/Sub2-9_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Interior of Capitol Theatre, 1930</p></div>
 <div>H Nugent Buckeridge Collection, courtesy of National Archives of Singapore</div>
@@ -105,7 +102,7 @@ Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s stage 
 
 <hr>
 
-![Raffles Library and Museum, 1900s](/images/Sub2-10-Raffles-Museum.jpg)
+<img alt="Raffles Library and Museum, 1900s" src="/images/Sub2-10-Raffles-Museum_400w.jpg" width="1000" height="648" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-10-Raffles-Museum_400w.jpg 400w, /images/Sub2-10-Raffles-Museum_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -115,7 +112,7 @@ The Raffles Library and Museum was opened to the public in 1887 and quickly beca
 
 <hr>
 
-![Interior of Raffles Library and Museum, 1900s](/images/Sub2-11-Raffles-Museum-Interior.jpg)
+<img alt="Interior of Raffles Library and Museum, 1900s" src="/images/Sub2-11-Raffles-Museum-Interior_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-11-Raffles-Museum-Interior_400w.jpg 400w, /images/Sub2-11-Raffles-Museum-Interior_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Interior of Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -125,7 +122,7 @@ This photograph shows the animal specimen exhibits at the Raffles Library and Mu
 
 <hr>
 
-![Great World Amusement Park, c. 1950](/images/Sub2-12-Great-World.jpg)
+<img alt="Great World Amusement Park, c. 1950" src="/images/Sub2-12-Great-World_400w.jpg" width="1000" height="634" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-12-Great-World_400w.jpg 400w, /images/Sub2-12-Great-World_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Great World Amusement Park, c. 1950</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore.</div>
@@ -135,7 +132,7 @@ Great World was one of Singapore’s major amusement parks that livened up the p
 
 <hr>
 
-![Chinese Opera in New World, 1955](/images/Sub2-13.jpg)
+<img alt="Chinese Opera in New World, 1955" src="/images/Sub2-13_400w.jpg" width="1000" height="723" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-13_400w.jpg 400w, /images/Sub2-13_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Chinese Opera in New World, 1955</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
