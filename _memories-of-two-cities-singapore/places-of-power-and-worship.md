@@ -18,7 +18,7 @@ Since the early 19th century, various migrant communities brought their religiou
   <div class="photos">
     <img class="photo-lv-1" src="/images/power-and-worship/seats-photo-stack-1.png" height="362" width="500" alt="Istana Kampong Glam, 1960s">
     <img class="photo-lv-2" src="/images/power-and-worship/seats-photo-stack-2.png" height="362" width="500" alt="View of Boat Quay looking towards Fort Canning Hill, 1900s">
-    <img class="photo-lv-3" src="/images/power-and-worship/seats-photo-stack-3.png" height="362" width="500" alt="Government House">
+    <img class="photo-lv-3" src="/images/power-and-worship/seats-photo-stack-3.png" height="362" width="500" alt="Government House, 1899">
   </div>
   <p>Seats of Power</p>
   <a class="cover" href="/memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power" aria-label="Read more about Seats of Power"></a>
