@@ -32,4 +32,9 @@ sections:
       alt: A city and wedding couple
       button: Find Out More
 notification: ""
+description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly
+  presented by the Capital Library of China and the National Library of
+  Singapore, signifying the goodwill and partnership between the two
+  institutions."'
+image: /images/isomer-logo.svg
 ---
