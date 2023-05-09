@@ -4,7 +4,7 @@ description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly
   presented by the Capital Library of China and the National Library of
   Singapore, signifying the goodwill and partnership between the two
   institutions."'
-url: "https://memoriesoftwocities.nlb.gov.sg"
+url: https://memoriesoftwocities.nlb.gov.sg
 google_analytics: UA-50449401-29
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -54,3 +54,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics_ga4: G-LWNLM0PL9J
+linkedin-insights: ""
