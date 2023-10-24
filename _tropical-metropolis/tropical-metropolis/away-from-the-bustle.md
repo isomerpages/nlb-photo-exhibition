@@ -8,7 +8,7 @@ Residents of early Singapore sought respite from the bustle of city life and the
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
 
-<img alt="The Esplanade, 1920s" src="/images/Sub3-1-Esplanade_400w.jpg" width="1000" height="641" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-1-Esplanade_400w.jpg 400w, /images/Sub3-1-Esplanade_1000w.jpg 1000w">
+<img alt="The Esplanade, 1920s" src="/images/sub3-1-esplanade_400w.jpg" width="1000" height="641" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-1-Esplanade_400w.jpg 400w, /images/Sub3-1-Esplanade_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>The Esplanade, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -18,7 +18,7 @@ Laid out in the 1820s, the Esplanade referred to the extensive open field known 
 
 <hr>
 
-<img alt="View of the Esplanade from the sea, c. 1920s" src="/images/Sub3-2-The-Esplanade_400w.jpg" width="1000" height="615" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-2-The-Esplanade_400w.jpg 400w, /images/Sub3-2-The-Esplanade_1000w.jpg 1000w">
+<img alt="View of the Esplanade from the sea, c. 1920s" src="/images/sub3-2-the-esplanade_400w.jpg" width="1000" height="615" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-2-The-Esplanade_400w.jpg 400w, /images/Sub3-2-The-Esplanade_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>View of the Esplanade from the sea, c. 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -28,7 +28,7 @@ An iconic landmark, older Singaporeans remember the Esplanade as a breezy recrea
 
 <hr>
 
-<img alt="Botanical Gardens, 1900s" src="/images/Sub3-3_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-3_400w.jpg 400w, /images/Sub3-3_1000w.jpg 1000w">
+<img alt="Botanical Gardens, 1900s" src="/images/sub3-3_400w.jpg" width="1000" height="635" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-3_400w.jpg 400w, /images/Sub3-3_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -38,7 +38,7 @@ Founded in 1859, the Botanical Gardens (now Botanic Gardens) was intended for sc
 
 <hr>
 
-<img alt="Entrance of Botanical Gardens, 1900s" src="/images/Sub3-4-Entrance-Botanical-Garden_400w.jpg" width="700" height="1120" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-4-Entrance-Botanical-Garden_400w.jpg 400w, /images/Sub3-4-Entrance-Botanical-Garden.jpg 700w">
+<img alt="Entrance of Botanical Gardens, 1900s" src="/images/sub3-4-entrance-botanical-garden_400w.jpg" width="700" height="1120" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-4-Entrance-Botanical-Garden_400w.jpg 400w, /images/Sub3-4-Entrance-Botanical-Garden.jpg 700w">
 <div class="custom-caption">
 <div><p>Entrance of Botanical Gardens, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -49,7 +49,7 @@ The Gardens introduced the Para rubber (_Hevea brasiliensis_) plant, which broug
 
 <hr>
 
-<img alt="Impounding Reservoir, 1890s" src="/images/Sub3-5-The-Water-Works_400w.jpg" width="1000" height="780" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-5-The-Water-Works_400w.jpg 400w, /images/Sub3-5-The-Water-Works_1000w.jpg 1000w">
+<img alt="Impounding Reservoir, 1890s" src="/images/sub3-5-the-water-works_400w.jpg" width="1000" height="780" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-5-The-Water-Works_400w.jpg 400w, /images/Sub3-5-The-Water-Works_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Impounding Reservoir, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -58,7 +58,7 @@ The Impounding Reservoir was Singapore's first water supply system, built in 186
  
 <hr>
 
-<img alt="Thomson Road Reservoir, 1907" src="/images/Sub3-6_400w.jpg" width="1000" height="717" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-6_400w.jpg 400w, /images/Sub3-6_1000w.jpg 1000w">
+<img alt="Thomson Road Reservoir, 1907" src="/images/sub3-6_400w.jpg" width="1000" height="717" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-6_400w.jpg 400w, /images/Sub3-6_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Thomson Road Reservoir, 1907</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -67,7 +67,7 @@ Also known as the Impounding Reservoir, and later renamed MacRitchie Reservoir i
 
 <hr>
 
-<img alt="Alkaff Lake Gardens, 1920s" src="/images/Sub3-7-Alkaff-Garden_400w.jpg" width="1000" height="626" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-7-Alkaff-Garden_400w.jpg 400w, /images/Sub3-7-Alkaff-Garden_1000w.jpg 1000w">
+<img alt="Alkaff Lake Gardens, 1920s" src="/images/sub3-7-alkaff-garden_400w.jpg" width="1000" height="626" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-7-Alkaff-Garden_400w.jpg 400w, /images/Sub3-7-Alkaff-Garden_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Alkaff Lake Gardens, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -77,7 +77,7 @@ Opened in 1929, Alkaff Lake Gardens was a Japanese-style garden developed by the
 
 <hr>
 
-<img alt="Tanjong Katong, 1920s" src="/images/Sub3-8-Tanjong-Katong-Singapore_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-8-Tanjong-Katong-Singapore_400w.jpg 400w, /images/Sub3-8-Tanjong-Katong-Singapore_1000w.jpg 1000w">
+<img alt="Tanjong Katong, 1920s" src="/images/sub3-8-tanjong-katong-singapore_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub3-8-Tanjong-Katong-Singapore_400w.jpg 400w, /images/Sub3-8-Tanjong-Katong-Singapore_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Tanjong Katong, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -87,7 +87,7 @@ In the 1820s, Tanjong Katong, a coastal area in eastern Singapore, was part of l
  
 <hr>
 
-<img alt="Beach at Tanjong Katong, 1920s" src="/images/Sub3-9_400w.jpg" width="700" height="1005" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/Sub3-9_400w.jpg 400w, /images/Sub3-9.jpg 700w">
+<img alt="Beach at Tanjong Katong, 1920s" src="/images/sub3-9_400w.jpg" width="700" height="1005" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/Sub3-9_400w.jpg 400w, /images/Sub3-9.jpg 700w">
 <div class="custom-caption">
 <div><p>Beach at Tanjong Katong, 1920s</p></div>
 <div>Marine Parade Community Centre Collection, courtesy of National Archives of Singapore</div>

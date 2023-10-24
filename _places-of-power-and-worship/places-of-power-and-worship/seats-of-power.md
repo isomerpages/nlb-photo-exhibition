@@ -10,7 +10,7 @@ The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fo
 <p></p>
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-<img alt="Fort Canning Entrance, 1925" src="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg 400w, /images/power-and-worship/Sub1-1-fort-canning-entrance-cr_1000w.jpg 1000w">
+<img alt="Fort Canning Entrance, 1925" src="/images/power-and-worship/sub1-1-fort-canning-entrance-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg 400w, /images/power-and-worship/Sub1-1-fort-canning-entrance-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Fort Canning Entrance, 1925</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -21,7 +21,7 @@ Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Gover
 <p></p>
 <hr>
 
-<img alt="Bunker at Fort Canning, 1925" src="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg 400w, /images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_1000w.jpg 1000w">
+<img alt="Bunker at Fort Canning, 1925" src="/images/power-and-worship/sub1-2-bunker-at-fort-canning-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg 400w, /images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Bunker at Fort Canning, 1925</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -32,7 +32,7 @@ Fort Canning was one of Singapore’s first British-built fortifications. Its pu
 <p></p>
 <hr>
 
-<img alt="View from Fort Canning Hill, 1870s" src="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg" width="1000" height="772" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg 400w, /images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_1000w.jpg 1000w">
+<img alt="View from Fort Canning Hill, 1870s" src="/images/power-and-worship/sub1-3-view-of-town-from-fort-canning-hill_400w.jpg" width="1000" height="772" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg 400w, /images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>View from Fort Canning Hill, 1870s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
@@ -42,7 +42,7 @@ Fort Canning Hill commanded a panoramic view of Singapore town as seen from this
 <p></p>
 <hr>
 
-<img alt="Government House, 1900s" src="/images/power-and-worship/Sub1-5-government-house_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-5-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-5-government-house_1000w.jpg 1000w">
+<img alt="Government House, 1900s" src="/images/power-and-worship/sub1-5-government-house_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-5-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-5-government-house_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Government House, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -53,7 +53,7 @@ After the old Government House on Government Hill (now Fort Canning Hill) was de
 <p></p>
 <hr>
 
-<img alt="Government House, 1899" src="/images/power-and-worship/Sub1-7-government-house_400w.jpg" width="1000" height="779" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-7-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-7-government-house_1000w.jpg 1000w">
+<img alt="Government House, 1899" src="/images/power-and-worship/sub1-7-government-house_400w.jpg" width="1000" height="779" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-7-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-7-government-house_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Government House, 1899</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -63,14 +63,14 @@ Set in expansive, beautifully landscaped grounds, the Government House was desig
 <p></p>
 <hr>
 
-<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg" width="1000" height="707" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-10-istana-kampong-glam-cr_1000w.jpg 1000w">
+<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-10-istana-kampong-glam-cr_400w.jpg" width="1000" height="707" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-10-istana-kampong-glam-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 <hr>
 
-<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg" width="1000" height="720" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-11-istana-kampong-glam-cr_1000w.jpg 1000w">
+<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-11-istana-kampong-glam-cr_400w.jpg" width="1000" height="720" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-11-istana-kampong-glam-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
