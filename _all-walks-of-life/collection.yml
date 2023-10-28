@@ -1,0 +1,8 @@
+collections:
+  all-walks-of-life:
+    output: true
+    order:
+      - all-walks-of-life/.keep
+      - all-walks-of-life/people-at-work.md
+      - all-walks-of-life/people-at-play.md
+      - all-walks-of-life/with-family-and-friends.md

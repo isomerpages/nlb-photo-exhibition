@@ -1,0 +1,7 @@
+collections:
+  places-of-power-and-worship:
+    output: true
+    order:
+      - places-of-power-and-worship/.keep
+      - places-of-power-and-worship/seats-of-power.md
+      - places-of-power-and-worship/places-of-worship.md

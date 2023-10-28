@@ -1,0 +1,6 @@
+collections:
+  a-city-in-motion:
+    output: true
+    order:
+      - a-city-in-motion/.keep
+      - a-city-in-motion/a-city-in-motion.md

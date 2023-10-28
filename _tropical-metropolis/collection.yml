@@ -1,0 +1,8 @@
+collections:
+  tropical-metropolis:
+    output: true
+    order:
+      - tropical-metropolis/.keep
+      - tropical-metropolis/the-earliest-thoroughfares.md
+      - tropical-metropolis/high-life-in-the-city.md
+      - tropical-metropolis/away-from-the-bustle.md

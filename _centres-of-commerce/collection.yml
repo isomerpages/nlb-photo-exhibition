@@ -1,0 +1,8 @@
+collections:
+  centres-of-commerce:
+    output: true
+    order:
+      - centres-of-commerce/.keep
+      - centres-of-commerce/raffles-place.md
+      - centres-of-commerce/singapore-river.md
+      - centres-of-commerce/harbour-at-tanjong-pagar.md
