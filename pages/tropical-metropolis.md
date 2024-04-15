@@ -14,34 +14,31 @@ Modern Singapore is a metropolis on all counts. However, since the early 19th ce
 <div class="type-two box-hov-style">
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/memories-of-two-cities-singapore/tropical-metropolis/the-earliest-thoroughfares/">
 				<img src="/images/the-earliest-thoroughfares-boxed.jpg" alt="Tropical Metropolis - The Earliest Thoroughfares" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>The Earliest<br>Thorough­fares</b></h5>
 				</div>
 			</div>
-			</a>
+			
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/" class="project-link">
 				<img src="/images/high-life-in-the-city-boxed.jpg" alt="Tropical Metropolis - High Life in the City" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>High Life<br>in the City</b></h5>
 				</div>
 			</div>
-			</a>
+			
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/memories-of-two-cities-singapore/tropical-metropolis/away-from-the-bustle/" class="project-link">
 				<img src="/images/away-from-the-bustle-boxed.jpg" alt="Brunei: A Country Profile" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Away from<br>the Bustle</b></h5>
 				</div>
 			</div>
-			</a>
+			
 		</div>
 	</div>
 </div>
