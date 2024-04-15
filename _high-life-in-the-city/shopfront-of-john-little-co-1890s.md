@@ -1,12 +1,12 @@
 ---
 title: 'Shopfront of John Little & Co., 1890s'
-permalink: '/tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/'/
+permalink: /tropical-metropolis/high-life-in-the-city/shopfront-of-john-little-&-co-1890s/
 breadcrumb: 'Shopfront of John Little & Co., 1890s'
 
 ---
 
 
-![Shopfront of John Little & Co., 1890s](/images/Sub2-5-Raffles-Square.jpg)
+![Shopfront of John Little & Co., 1890s](/images/sub2-5-raffles-square.jpg)
 <div class="custom-caption">
 <div><p>Shopfront of John Little & Co., 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>

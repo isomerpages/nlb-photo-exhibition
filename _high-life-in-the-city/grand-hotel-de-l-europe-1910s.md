@@ -1,12 +1,12 @@
 ---
 title: 'Grand Hotel de l’Europe, 1910s'
-permalink: '/tropical-metropolis/high-life-in-the-city/grand-hotel-de-l''europe-1910s/'/
+permalink: /tropical-metropolis/high-life-in-the-city/grand-hotel-de-l''europe-1910s/
 breadcrumb: 'Grand Hotel de l’Europe, 1910s'
 
 ---
 
 
-![Grand Hotel de l’Europe, 1910s](/images/Sub2-3-Hotel-De-Europe.jpg)
+![Grand Hotel de l’Europe, 1910s](/images/sub2-3-hotel-de-europe.jpg)
 <div class="custom-caption">
 <div><p>Grand Hotel de l’Europe, 1910s</p></div>
 <div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>

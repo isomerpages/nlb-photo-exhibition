@@ -8,7 +8,7 @@ Along with the influx of different migrant communities came numerous forms of le
 
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-<img alt="Chinese opera actors, 1890s" src="/images/all-walks-of-life/Sub2-1-chinese-opera-actors_400w.jpg" width="700" height="1039" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub2-1-chinese-opera-actors_400w.jpg 400w, /images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg 700w">
+<img alt="Chinese opera actors, 1890s" src="/images/all-walks-of-life/sub2-1-chinese-opera-actors_400w.jpg" width="700" height="1039" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/all-walks-of-life/Sub2-1-chinese-opera-actors_400w.jpg 400w, /images/all-walks-of-life/Sub2-1-chinese-opera-actors.jpg 700w">
 <div class="custom-caption">
 <div><p>Chinese opera actors, 1890s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -19,7 +19,7 @@ Chinese opera performed on the street was a popular form of entertainment in Sin
 <p></p>
 <hr>
 
-<img alt="Bangsawan opera, 1930s" src="/images/all-walks-of-life/Sub2-2-bangsawan-opera_400w.jpg" width="1000" height="716" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-2-bangsawan-opera_400w.jpg 400w, /images/all-walks-of-life/Sub2-2-bangsawan-opera_1000w.jpg 1000w">
+<img alt="Bangsawan opera, 1930s" src="/images/all-walks-of-life/sub2-2-bangsawan-opera_400w.jpg" width="1000" height="716" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-2-bangsawan-opera_400w.jpg 400w, /images/all-walks-of-life/Sub2-2-bangsawan-opera_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Bangsawan opera,1930s</p></div>
 <div>Mohd Amin bin Kadarisman Collection, courtesy of National Archives of Singapore</div>
@@ -41,7 +41,7 @@ Traditional dances were usually performed at celebrations such as weddings, fest
 <p></p>
 <hr>
 
-<img alt="Indian musicians and dancing girl, 1900s" src="/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg" width="1000" height="638" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_1000w.jpg 1000w">
+<img alt="Indian musicians and dancing girl, 1900s" src="/images/all-walks-of-life/sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg" width="1000" height="638" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-4-indian-musicians-and-dancing-girl-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Indian musicians and dancing girl, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -52,7 +52,7 @@ When Indian immigrants came to Singapore in the 19th century, they brought along
 <p></p>
 <hr>
 
-<img alt="Fancy dress party, 1928" src="/images/all-walks-of-life/Sub2-5-fancy-dress-party_400w.jpg" width="1000" height="770" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-5-fancy-dress-party_400w.jpg 400w, /images/all-walks-of-life/Sub2-5-fancy-dress-party_1000w.jpg 1000w">
+<img alt="Fancy dress party, 1928" src="/images/all-walks-of-life/sub2-5-fancy-dress-party_400w.jpg" width="1000" height="770" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-5-fancy-dress-party_400w.jpg 400w, /images/all-walks-of-life/Sub2-5-fancy-dress-party_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Fancy dress party, 1928</p></div>
 <div>Stanley T Tanner Collection, courtesy of National Archives of Singapore</div>
@@ -63,7 +63,7 @@ Dinner parties were important social events and entertainment for European resid
 <p></p>
 <hr>
 
-<img alt="Raffles College students dancing, 1948" src="/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_400w.jpg 400w, /images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_1000w.jpg 1000w">
+<img alt="Raffles College students dancing, 1948" src="/images/all-walks-of-life/sub2-6-raffles-college-students-dancing_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_400w.jpg 400w, /images/all-walks-of-life/Sub2-6-raffles-college-students-dancing_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Raffles College students dancing, 1948</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -74,7 +74,7 @@ Tea dances were once a popular social pastime in Singapore. In the 1920s, major 
 <p></p>
 <hr>
 
-<img alt="Spectators at Farrer Park Racecourse, 1930" src="/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_1000w.jpg 1000w">
+<img alt="Spectators at Farrer Park Racecourse, 1930" src="/images/all-walks-of-life/sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-7-spectators-at-farrer-park-race-course-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Spectators at Farrer Park Racecourse, 1930</p></div>
 <div>Margaret Clarke Collection, courtesy of National Archives of Singapore</div>
@@ -85,7 +85,7 @@ Horse racing was introduced to Singapore by the British. Built in 1842, the firs
 <p></p>
 <hr>
 
-<img alt="A family at a beach house, 1920s" src="/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_400w.jpg" width="1000" height="746" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_1000w.jpg 1000w">
+<img alt="A family at a beach house, 1920s" src="/images/all-walks-of-life/sub2-8-a-family-at-a-beach-house-cr_400w.jpg" width="1000" height="746" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-8-a-family-at-a-beach-house-cr_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>A family at a beach house, 1920s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -96,7 +96,7 @@ Being a tropical island, it is no surprise that swimming and beach-going became 
 <p></p>
 <hr>
 
-<img alt="Swimming competition, 1930s" src="/images/all-walks-of-life/Sub2-9-swimming-competition_400w.jpg" width="1000" height="677" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-9-swimming-competition_400w.jpg 400w, /images/all-walks-of-life/Sub2-9-swimming-competition_1000w.jpg 1000w">
+<img alt="Swimming competition, 1930s" src="/images/all-walks-of-life/sub2-9-swimming-competition_400w.jpg" width="1000" height="677" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub2-9-swimming-competition_400w.jpg 400w, /images/all-walks-of-life/Sub2-9-swimming-competition_1000w.jpg 1000w">
 <div class="custom-caption">
 <div><p>Swimming competition, 1930s</p></div>
 <div>Lee Brothers Studio Collection, courtesy of National Archives of Singapore</div>
@@ -107,7 +107,7 @@ In the early days, recreational swimming was mostly practiced by European and lo
 <p></p>
 <hr>
 
-<img alt="Hunting party, 1930" src="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg" width="682" height="958" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg 958w">
+<img alt="Hunting party, 1930" src="/images/all-walks-of-life/sub2-10-hunting-party-cr_400w.jpg" width="682" height="958" sizes="(max-width: 400px) 40vw, 95vw" srcset="/images/all-walks-of-life/Sub2-10-hunting-party-cr_400w.jpg 400w, /images/all-walks-of-life/Sub2-10-hunting-party-cr.jpg 958w">
 <div class="custom-caption">
 <div><p>Hunting party, 1930</p></div>
 <div>Tan Tuan Khoon Collection, courtesy of National Archives of Singapore</div>
