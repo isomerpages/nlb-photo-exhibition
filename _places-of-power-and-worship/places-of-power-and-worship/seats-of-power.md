@@ -9,7 +9,7 @@ Singapore’s past kingdoms and empires have left their marks on the island over
 
 The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fort Canning Hill) had long been exclusive to the royalty and was a symbol of power. Sir Stamford Raffles built a bungalow on the hill in 1822, which eventually became Government House – the official residence of colonial governors. A new Government House was erected in the vicinity of Orchard Road in 1869. Meanwhile, the Malay royalty resided in Singapore at the Istana (‘palace’ in Malay) in Kampong Glam. Being seats of authority or royal households, these buildings were remarkable in both architectural features and historical significance.
 <p></p>
-<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg">
 
 <img alt="Fort Canning Entrance, 1925" src="/images/power-and-worship/sub1-1-fort-canning-entrance-cr_400w.jpg">
 <div class="custom-caption">
