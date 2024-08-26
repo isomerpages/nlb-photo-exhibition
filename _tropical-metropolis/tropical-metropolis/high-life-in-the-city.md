@@ -3,23 +3,24 @@ title: High Life in the City
 permalink: /memories-of-two-cities-singapore/tropical-metropolis/high-life-in-the-city/
 breadcrumb: High Life in the City
 third_nav_title: Tropical Metropolis
+variant: markdown
 ---
 As a port city on the major trade routes between Europe, India, Australia and China, early Singapore had long been exposed to cosmopolitan lifestyles and material culture. The opening of the Suez Canal in 1869 brought an influx of tourists from Europe to Singapore, and accommodation, retail and entertainment facilities flourished to cater for the needs of international travellers. This section showcases what Singapore had to offer when high living was called for – world-class hotels, modern department stores, shopping belts, as well as entertainment to suit every taste and budget.
 
 <p></p>
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-<img alt="Raffles Hotel, 1900s" src="/images/sub2-1-raffles-hotel_400w.jpg" width="1000" height="640" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-1-Raffles-Hotel_400w.jpg 400w, /images/Sub2-1-Raffles-Hotel_1000w.jpg 1000w">
+<img alt="Raffles Hotel, 1900s" src="/images/sub2-1-raffles-hotel_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Hotel, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005093 - 0055</div>
 </div>
-Raffles Hotel was established in 1887 by Armenian hoteliers the Sarkies brothers and commenced operations as a 10-room hotel. Its seafront location made it popular among European residents and travellers. Its new main building, which opened in 1899, was among the first in Singapore to have electric lighting and appliances. By the early 1900s, it had transformed into one of the largest grand hotels in Asia, renowned for its modern amenities and luxury. 
+Raffles Hotel was established in 1887 by Armenian hoteliers the Sarkies brothers and commenced operations as a 10-room hotel. Its seafront location made it popular among European residents and travellers. Its new main building, which opened in 1899, was among the first in Singapore to have electric lighting and appliances. By the early 1900s, it had transformed into one of the largest grand hotels in Asia, renowned for its modern amenities and luxury.&nbsp;
 
 <hr>
 
-<img alt="Raffles Hotel Ballroom, 1900s" src="/images/sub2-2-the-ballroom-set-raffles-hotel_400w.jpg" width="1000" height="629" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_400w.jpg 400w, /images/Sub2-2-The-Ballroom-Set-Raffles-Hotel_1000w.jpg 1000w">
+<img alt="Raffles Hotel Ballroom, 1900s" src="/images/sub2-2-the-ballroom-set-raffles-hotel_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Hotel Ballroom, 1900s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -29,17 +30,17 @@ Raffles Hotel was renowned for parties and banquets at its ballroom, where guest
 
 <hr>
 
-<img alt="Grand Hotel de l’Europe, 1910s" src="/images/sub2-3-hotel-de-europe_400w.jpg" width="1000" height="663" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-3-Hotel-De-Europe_400w.jpg 400w, /images/Sub2-3-Hotel-De-Europe_1000w.jpg 1000w">
+<img alt="Grand Hotel de l’Europe, 1910s" src="/images/sub2-3-hotel-de-europe_400w.jpg">
 <div class="custom-caption">
 <div><p>Grand Hotel de l’Europe, 1910s</p></div>
 <div>Robert Feingold Collection, courtesy of National Archives of Singapore</div>
 <div>19980005107 - 0008</div>
 </div>
-English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, once said ‘feed at Raffles and sleep at the Hotel de l’Europe’, referring to the two leading hotels in the city then. Hotel de l’Europe began in 1857 as a modest establishment. It was renamed Grand Hotel de l’Europe in 1907, after a major refurbishment. During its heyday, it rivalled the Raffles Hotel in terms of luxury and service. The hotel closed in 1932.
+English writer Rudyard Kipling (1865–1936), who visited Singapore in 1889, once said ‘feed at Raffles and sleep at the Hotel de l’Europe’, referring to the two leading hotels in the city then. Hotel de l’Europe began in&nbsp;1857 as a modest establishment. It was renamed Grand Hotel de l’Europe in 1907, after a major refurbishment. During its heyday, it rivalled the Raffles Hotel in terms of luxury and service. The hotel closed in 1932.
 
 <hr>
 
-<img alt="Dining Room at Grand Hotel de l’Europe, 1910s" src="/images/sub2-4-dining-room_400w.jpg" width="1000" height="795" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-4-Dining-Room_400w.jpg 400w, /images/Sub2-4-Dining-Room_1000w.jpg 1000w">
+<img alt="Dining Room at Grand Hotel de l’Europe, 1910s" src="/images/sub2-4-dining-room_400w.jpg">
 <div class="custom-caption">
 <div><p>Dining Room at Grand Hotel de l’Europe, 1910s</p></div>
 <div>Collection of National Library Singapore</div>
@@ -49,17 +50,17 @@ Jewish businessman Nissim Nassim Adis bought the Hotel de l’Europe in 1906 and
 
 <hr>
 
-<img alt="Shopfront of John Little & Co., 1890s" src="/images/sub2-5-raffles-square_400w.jpg" width="1000" height="784" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-5-Raffles-Square_400w.jpg 400w, /images/Sub2-5-Raffles-Square_1000w.jpg 1000w">
+<img alt="Shopfront of John Little &amp; Co., 1890s" src="/images/sub2-5-raffles-square_400w.jpg">
 <div class="custom-caption">
 <div><p>Shopfront of John Little &amp; Co., 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 
-Founded in 1842, John Little was Singapore's oldest department store. Often advertised as ‘the finest store East of Suez’, it had departments for wines and spirits, provisions, home furnishing, watches and clocks, books and stationery, arms and ammunition, ladies and gentlemen’s outfitting, and more. Besides offering European merchandise, John Little also ran a car business, motor garage, furniture factory, café and beauty salon.
+Founded in 1842, John Little was Singapore's oldest department store. Often advertised as ‘the finest store East of Suez’, it had departments for wines and spirits, provisions, home furnishing, watches and clocks, books and stationery, arms and ammunition, ladies and gentlemen’s outfitting, and more.&nbsp;Besides offering European merchandise, John Little also ran a&nbsp;car&nbsp;business, motor&nbsp;garage,&nbsp;furniture&nbsp;factory,&nbsp;café&nbsp;and beauty salon.
 
 <hr>
 
-<img alt="Interior of John Little, c.1910s" src="/images/sub2-6-interior-view-john-little-and-cos-premises_400w.jpg" width="1000" height="627" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_400w.jpg 400w, /images/Sub2-6-Interior-View-John-Little-and-Cos-Premises_1000w.jpg 1000w">
+<img alt="Interior of John Little, c.1910s" src="/images/sub2-6-interior-view-john-little-and-cos-premises_400w.jpg">
 <div class="custom-caption">
 <div><p>Interior of John Little, c.1910s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
@@ -70,18 +71,18 @@ This photograph shows the main stairs of John Little’s new three-storey buildi
 
 <hr>
 
-<img alt="High Street, 1920s" src="/images/sub2-7-high-street_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-7-High-Street_400w.jpg 400w, /images/Sub2-7-High-Street_1000w.jpg 1000w">
+<img alt="High Street, 1920s" src="/images/sub2-7-high-street_400w.jpg">
 <div class="custom-caption">
 <div><p>High Street, 1920s</p></div>
 <div>Lim Kheng Chye Collection, courtesy of National Archives of Singapore</div>
 <div>19980005883 – 0016</div>
 </div>
 
-From the turn of the century until the 1960s, High Street was a popular shopping street for upmarket products. Many Sindhi and Sikh merchants set up textile shops here, which were well-known for their imported European fabrics such as laces and brocade, and fine tailoring. This street continued to be Singapore’s premier shopping belt till the 1960s, with department stores such as Aurora, Chotirmall and Metro attracting shoppers for their quality merchandise.
+From the turn of the century until the 1960s, High Street was a popular shopping street for upmarket products.&nbsp;Many Sindhi and Sikh merchants set up textile shops here, which were well-known for their imported European fabrics such as laces and brocade, and fine tailoring. This street continued to be Singapore’s premier shopping belt till the 1960s, with department stores such as Aurora, Chotirmall and Metro attracting shoppers for their quality merchandise.
 
 <hr>
 
-<img alt="Capitol Theatre, 1947" src="/images/sub2-8-capitol-theatre_400w.jpg" width="1000" height="650" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-8-Capitol-Theatre_400w.jpg 400w, /images/Sub2-8-Capitol-Theatre_1000w.jpg 1000w">
+<img alt="Capitol Theatre, 1947" src="/images/sub2-8-capitol-theatre_400w.jpg">
 <div class="custom-caption">
 <div><p>Capitol Theatre, 1947</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -91,7 +92,7 @@ Capitol Theatre, which opened in 1930, was regarded as one of the finest cinemas
 
 <hr>
 
-<img alt="Interior of Capitol Theatre, 1930" src="/images/sub2-9_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-9_400w.jpg 400w, /images/Sub2-9_1000w.jpg 1000w">
+<img alt="Interior of Capitol Theatre, 1930" src="/images/sub2-9_400w.jpg">
 <div class="custom-caption">
 <div><p>Interior of Capitol Theatre, 1930</p></div>
 <div>H Nugent Buckeridge Collection, courtesy of National Archives of Singapore</div>
@@ -102,7 +103,7 @@ Capitol Theatre could accommodate at least 1,600 viewers. The theatre’s stage 
 
 <hr>
 
-<img alt="Raffles Library and Museum, 1900s" src="/images/sub2-10-raffles-museum_400w.jpg" width="1000" height="648" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-10-Raffles-Museum_400w.jpg 400w, /images/Sub2-10-Raffles-Museum_1000w.jpg 1000w">
+<img alt="Raffles Library and Museum, 1900s" src="/images/sub2-10-raffles-museum_400w.jpg" width="1000" height="648">
 <div class="custom-caption">
 <div><p>Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -112,7 +113,7 @@ The Raffles Library and Museum was opened to the public in 1887 and quickly beca
 
 <hr>
 
-<img alt="Interior of Raffles Library and Museum, 1900s" src="/images/sub2-11-raffles-museum-interior_400w.jpg" width="1000" height="614" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-11-Raffles-Museum-Interior_400w.jpg 400w, /images/Sub2-11-Raffles-Museum-Interior_1000w.jpg 1000w">
+<img alt="Interior of Raffles Library and Museum, 1900s" src="/images/sub2-11-raffles-museum-interior_400w.jpg">
 <div class="custom-caption">
 <div><p>Interior of Raffles Library and Museum, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -122,20 +123,20 @@ This photograph shows the animal specimen exhibits at the Raffles Library and Mu
 
 <hr>
 
-<img alt="Great World Amusement Park, c. 1950" src="/images/sub2-12-great-world_400w.jpg" width="1000" height="634" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-12-Great-World_400w.jpg 400w, /images/Sub2-12-Great-World_1000w.jpg 1000w">
+<img alt="Great World Amusement Park, c. 1950" src="/images/sub2-12-great-world_400w.jpg">
 <div class="custom-caption">
 <div><p>Great World Amusement Park, c. 1950</p></div>
 <div>Wong Kwan Collection, courtesy of National Archives of Singapore.</div>
 <div>19980005861 - 0041</div>
 </div>
-Great World was one of Singapore’s major amusement parks that livened up the public’s leisure time in the 1950s and 1960s. The amusement park was developed in the 1930s to provide entertainment for low-income families. Apart from games and rides, visitors could watch films and Chinese operas, as well as wrestling and boxing matches.
+Great World was one of Singapore’s major amusement parks that livened up the public’s leisure time in the 1950s and 1960s. The amusement park was developed in the 1930s to provide entertainment for low-income families. Apart from games and rides, visitors could watch films and Chinese operas, as well as wrestling and&nbsp;boxing matches.
 
 <hr>
 
-<img alt="Chinese Opera in New World, 1955" src="/images/sub2-13_400w.jpg" width="1000" height="723" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/Sub2-13_400w.jpg 400w, /images/Sub2-13_1000w.jpg 1000w">
+<img alt="Chinese Opera in New World, 1955" src="/images/sub2-13_400w.jpg">
 <div class="custom-caption">
 <div><p>Chinese Opera in New World, 1955</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
 <div>20140000146 - 0045</div>
 </div>
-The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_ (Malay opera). After the war, the parks became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
+The amusement parks were well-known for traditional opera performances of every description. People could watch Peking, Teochew and Cantonese operas, as well as _bangsawan_&nbsp;(Malay opera). After the war, the parks became popular once again, with carnival rides such as the Ghost Train, ferris wheel and carousel added to the suite of attractions for visitors.
