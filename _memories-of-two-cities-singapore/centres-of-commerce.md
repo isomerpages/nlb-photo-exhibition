@@ -2,8 +2,9 @@
 title: Centres of Commerce
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/
 breadcrumb: Centres of Commerce
+variant: markdown
 ---
-<img alt="Raffles Place seen from Chartered Bank, 1920s" src="/images/centres-of-commerce/commerce-banner_400w.jpg" width="1000" height="461" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/commerce-banner_400w.jpg 400w, /images/centres-of-commerce/commerce-banner_1000w.jpg 1000w">
+<img alt="Raffles Place seen from Chartered Bank, 1920s" src="/images/centres-of-commerce/commerce-banner_400w.jpg">
 ### **Centres of Commerce**
 
 The importance of Singapore and its surrounding waterways has for centuries been due to its role in regional and international maritime trade. The mouth of the Singapore River leads to the Straits of Singapore, which together with the Straits of Melaka, is a major shipping route linking the Indian Ocean to the South China Sea.
@@ -18,9 +19,9 @@ This section features early Singapore’s key commercial centres.
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/centres-of-commerce/raffles-place-photo-stack-1.png" height="362" width="500" alt="Raffles Place seen from Chartered Bank, 1920s">
-    <img class="photo-lv-2" src="/images/centres-of-commerce/raffles-place-photo-stack-2.png" height="362" width="500" alt="Battery Road, 1920s">
-    <img class="photo-lv-3" src="/images/centres-of-commerce/raffles-place-photo-stack-3.png" height="362" width="500" alt="Fullerton Square and Battery Road, c. 1900">
+    <img class="photo-lv-1" src="/images/centres-of-commerce/raffles-place-photo-stack-1.png" alt="Raffles Place seen from Chartered Bank, 1920s">
+    <img class="photo-lv-2" src="/images/centres-of-commerce/raffles-place-photo-stack-2.png" alt="Battery Road, 1920s">
+    <img class="photo-lv-3" src="/images/centres-of-commerce/raffles-place-photo-stack-3.png" alt="Fullerton Square and Battery Road, c. 1900">
   </div>
   <p>Raffles Place</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/raffles-place/" aria-label="Read more about Raffles Place"></a>
@@ -28,9 +29,9 @@ This section features early Singapore’s key commercial centres.
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/centres-of-commerce/sg-river-photo-stack-1.png" height="362" width="500" alt="Boat Quay, 1920s">
-    <img class="photo-lv-2" src="/images/centres-of-commerce/sg-river-photo-stack-2.png" height="362" width="500" alt="Singapore River, 1924">
-    <img class="photo-lv-3" src="/images/centres-of-commerce/sg-river-photo-stack-3.png" height="362" width="500" alt="Cargo Ship near the mouth of the Singapore River, 1900s">
+    <img class="photo-lv-1" src="/images/centres-of-commerce/sg-river-photo-stack-1.png" alt="Boat Quay, 1920s">
+    <img class="photo-lv-2" src="/images/centres-of-commerce/sg-river-photo-stack-2.png" alt="Singapore River, 1924">
+    <img class="photo-lv-3" src="/images/centres-of-commerce/sg-river-photo-stack-3.png" alt="Cargo Ship near the mouth of the Singapore River, 1900s">
   </div>
   <p>Singapore River</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/singapore-river/" aria-label="Read more about Singapore River"></a>
@@ -42,9 +43,9 @@ This section features early Singapore’s key commercial centres.
   
 <div class="photo-stacked-wrap">
   <div class="photos">
-    <img class="photo-lv-1" src="/images/centres-of-commerce/harbour-photo-stack-1.png" height="362" width="500" alt="Ship docked at wharf of Tanjong Pagar Dock Company, c. 1910">
-    <img class="photo-lv-2" src="/images/centres-of-commerce/harbour-photo-stack-2.png" height="362" width="500" alt="P&O Wharf at New Harbour, c. 1900">
-    <img class="photo-lv-3" src="/images/centres-of-commerce/harbour-photo-stack-3.png" height="362" width="500" alt="Boustead Institute, c. 1902">
+    <img class="photo-lv-1" src="/images/centres-of-commerce/harbour-photo-stack-1.png" alt="Ship docked at wharf of Tanjong Pagar Dock Company, c. 1910">
+    <img class="photo-lv-2" src="/images/centres-of-commerce/harbour-photo-stack-2.png" alt="P&amp;O Wharf at New Harbour, c. 1900">
+    <img class="photo-lv-3" src="/images/centres-of-commerce/harbour-photo-stack-3.png" alt="Boustead Institute, c. 1902">
   </div>
   <p>Harbour at Tanjong Pagar</p>
   <a class="cover" href="/memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar" aria-label="Read more about Harbour at Tanjong Pagar"></a>
