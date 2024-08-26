@@ -2,8 +2,9 @@
 title: Colourful Customs
 permalink: /memories-of-two-cities-singapore/colourful-customs/
 breadcrumb: Colourful Customs
+variant: markdown
 ---
-<img alt="Peranakan wedding, 1925" src="/images/colourful-customs/colourful-customs-banner_400w.jpg" width="1000" height="461" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/colourful-customs/colourful-customs-banner_400w.jpg 400w, /images/colourful-customs/colourful-customs-banner_1000w.jpg 1000w">
+<img alt="Peranakan wedding, 1925" src="/images/colourful-customs/colourful-customs-banner_400w.jpg">
 ### **Colourful Customs**
 
 Singapore is known for its rich and colourful traditions and practices, thanks to the diversity of the communities that reside here. The myriad customs are given full expression on significant occasions such as weddings, funerals, and festive celebrations. As seen in the historical photographs in this section, they have been practised in Singapore since its early days.  
