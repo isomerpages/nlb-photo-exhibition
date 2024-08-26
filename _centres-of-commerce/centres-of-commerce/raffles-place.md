@@ -3,6 +3,7 @@ title: Raffles Place
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/raffles-place/
 breadcrumb: Raffles Place
 third_nav_title: Centres of Commerce
+variant: markdown
 ---
 Originally known as Commercial Square, Raffles Place was designated as the business district of Singapore by Sir Stamford Raffles in 1822. Originally a swampy area, a hill had to be levelled to fill and construct the square.
 
@@ -14,29 +15,29 @@ Raffles Place and its surrounding areas have undergone tremendous change over ti
 
 <img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
 
-<img alt="Fullerton Square, 1900s" src="/images/centres-of-commerce/sub1-1-fullerton-square-cr_400w.jpg" width="700" height="1012" sizes="(max-width: 400px) 40vw, 70vw" srcset="/images/centres-of-commerce/Sub1-1-fullerton-square-cr_400w.jpg 400w, /images/centres-of-commerce/Sub1-1-fullerton-square-cr.jpg 700w">
+<img alt="Fullerton Square, 1900s" src="/images/centres-of-commerce/sub1-1-fullerton-square-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Fullerton Square, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
-<div>19980005093 - 0074</div>
+<div>19980005093&nbsp;-&nbsp;0074</div>
 </div>
 Fullerton Square was a busy thoroughfare that connected Collyer Quay – once the landing point for ships to unload and store their goods, and for passengers to disembark – to Commercial Square (later known as Raffles Place), the business hub of early Singapore. The Hongkong and Shanghai Bank building is visible on the right.
 <p></p>
 <p></p>
 <hr>
 
-<img alt="Fullerton Square and Battery Road, c. 1900" src="/images/centres-of-commerce/sub1-2-fullerton-square-and-battery-road-rz_400w.jpg" width="1000" height="674" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road-rz_400w.jpg 400w, /images/centres-of-commerce/Sub1-2-fullerton-square-and-battery-road-rz_1000w.jpg 1000w">
+<img alt="Fullerton Square and Battery Road, c. 1900" src="/images/centres-of-commerce/sub1-2-fullerton-square-and-battery-road-rz_400w.jpg">
 <div class="custom-caption">
 <div><p>Fullerton Square and Battery Road, c. 1900</p></div>
 <div>National Archives of the Netherlands Collection, courtesy of National Archives of Singapore</div>
-<div>20060000334 - 0088</div>
+<div>20060000334&nbsp;-&nbsp;0088</div>
 </div>
 Seen here is the Tan Kim Seng Fountain at Fullerton Square. The Victorian-style structure was built in 1882 to commemorate the prominent merchant and philanthropist’s contributions to Singapore’s waterworks. Leading away from the fountain is Battery Road, which connected Collyer Quay to Commercial Square, making it one of the busiest streets in Singapore in the 19th and early 20th centuries.
 <p></p>
 <p></p>
 <hr>
 
-<img alt="Battery Road, 1880s" src="/images/centres-of-commerce/sub1-3-battery-road_400w.jpg" width="1000" height="736" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-3-battery-road_400w.jpg 400w, /images/centres-of-commerce/Sub1-3-battery-road_1000w.jpg 1000w">
+<img alt="Battery Road, 1880s" src="/images/centres-of-commerce/sub1-3-battery-road_400w.jpg">
 <div class="custom-caption">
 <div><p>Battery Road, 1880s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -46,7 +47,7 @@ The mercantile community on Battery Road was made up of mainly European merchant
 <p></p>
 <hr>
 
-<img alt="Battery Road, 1920s" src="/images/centres-of-commerce/sub1-4-battery-road_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-4-battery-road_400w.jpg 400w, /images/centres-of-commerce/Sub1-4-battery-road_1000w.jpg 1000w">
+<img alt="Battery Road, 1920s" src="/images/centres-of-commerce/sub1-4-battery-road_400w.jpg">
 <div class="custom-caption">
 <div><p>Battery Road, 1920s</p></div>
 <div>Anthony Wharton Collection, courtesy of National Archives of Singapore </div>
@@ -58,7 +59,7 @@ European doctors, in this case, by German doctor Christopher Trebing in the 1870
 <p></p>
 <hr>
 
-<img alt="Battery Road in the evening, 1954" src="/images/centres-of-commerce/sub1-5-battery-road-in-the-evening_400w.jpg" width="1000" height="745" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-5-battery-road-in-the-evening_400w.jpg 400w, /images/centres-of-commerce/Sub1-5-battery-road-in-the-evening_1000w.jpg 1000w">
+<img alt="Battery Road in the evening, 1954" src="/images/centres-of-commerce/sub1-5-battery-road-in-the-evening_400w.jpg">
 <div class="custom-caption">
 <div><p>Battery Road in the evening, 1954</p></div>
 <div>Donald Moore Collection, courtesy of National Archives of Singapore</div>
@@ -68,7 +69,7 @@ European doctors, in this case, by German doctor Christopher Trebing in the 1870
 <p></p>
 <hr>
 
-<img alt="Raffles Place, 1880s" src="/images/centres-of-commerce/sub1-6-raffles-place_400w.jpg" width="1000" height="746" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-6-raffles-place_400w.jpg 400w, /images/centres-of-commerce/Sub1-6-raffles-place_1000w.jpg 1000w">
+<img alt="Raffles Place, 1880s" src="/images/centres-of-commerce/sub1-6-raffles-place_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Place, 1880s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -78,7 +79,7 @@ Originally known as Commercial Square, Raffles Place was designated as a busines
 <p></p>
 <hr>
 
-<img alt="Raffles Place, 1920s" src="/images/centres-of-commerce/sub1-7-raffles-place_400w.jpg" width="1000" height="645" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-7-raffles-place_400w.jpg 400w, /images/centres-of-commerce/Sub1-7-raffles-place_1000w.jpg 1000w">
+<img alt="Raffles Place, 1920s" src="/images/centres-of-commerce/sub1-7-raffles-place_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Place, 1920s</p></div>
 <div>Andrew Tan Collection, courtesy of National Archives of Singapore</div>
@@ -90,7 +91,7 @@ the oldest department store in Singapore, on the right.
 <p></p>
 <hr>
 
-<img alt="Raffles Place seen from Chartered Bank, 1920s" src="/images/centres-of-commerce/sub1-8-raffles-place-seen-from-the-chartered-bank-cr_400w.jpg" width="1000" height="683" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank-cr_400w.jpg 400w, /images/centres-of-commerce/Sub1-8-raffles-place-seen-from-the-chartered-bank-cr_1000w.jpg 1000w">
+<img alt="Raffles Place seen from Chartered Bank, 1920s" src="/images/centres-of-commerce/sub1-8-raffles-place-seen-from-the-chartered-bank-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Place seen from Chartered Bank, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -101,11 +102,11 @@ The square of Raffles Place was originally a garden before it was turned into a 
 <p></p>
 <hr>
 
-<img alt="Raffles Place, 1966" src="/images/centres-of-commerce/sub1-9-raffles-place-1966-rz_400w.jpg" width="1000" height="666" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub1-9-raffles-place-1966-rz_400w.jpg 400w, /images/centres-of-commerce/Sub1-9-raffles-place-1966-rz_1000w.jpg 1000w">
+<img alt="Raffles Place, 1966" src="/images/centres-of-commerce/sub1-9-raffles-place-1966-rz_400w.jpg">
 <div class="custom-caption">
 <div><p>Raffles Place, 1966</p></div>
 <div>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</div>
-<div>19980005179 – 0082</div>
+<div>19980005179&nbsp;– 0082</div>
 </div>
 Following the completion of an underground carpark at Raffles Place by 1965, the open-air carpark was transformed into a park featuring fountains and a giant flower clock. In the 1980s, the underground carpark was demolished to make way for the Raffles Place underground train station.
 <p></p>
