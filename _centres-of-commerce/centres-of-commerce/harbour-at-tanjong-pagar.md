@@ -12,7 +12,7 @@ New Harbour, now known as Keppel Harbour, had been in use by local and regional 
 Keppel Harbour remains a mainstay of shipping activity in Singapore today.
 <p></p>
 
-<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg">
 
 <img alt="Entrance to New Harbour, 1890s" src="/images/centres-of-commerce/sub3-1-entrance-to-new-harbour_400w.jpg">
 <div class="custom-caption">
