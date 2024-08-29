@@ -1,0 +1,17 @@
+collections:
+  high-life-in-the-city:
+    output: true
+    order:
+      - raffles-hotel-1900s.md
+      - raffles-hotel-ballroom-1900s.md
+      - grand-hotel-de-l-europe-1910s.md
+      - dining-room-at-grand-hotel-de-l-europe-1910s.md
+      - shopfront-of-john-little-co-1890s.md
+      - interior-of-john-little-c-1910s.md
+      - high-street-1920s.md
+      - capitol-theatre-1947.md
+      - interior-of-capitol-theatre-1930.md
+      - raffles-library-and-museum-1900s.md
+      - interior-of-raffles-library-and-museum-1900s.md
+      - great-world-amusement-park-c-1950.md
+      - chinese-opera-in-new-world-1955.md
