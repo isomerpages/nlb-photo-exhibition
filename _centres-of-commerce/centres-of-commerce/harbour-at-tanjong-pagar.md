@@ -3,6 +3,7 @@ title: Harbour at Tanjong Pagar
 permalink: /memories-of-two-cities-singapore/centres-of-commerce/harbour-at-tanjong-pagar/
 breadcrumb: Harbour at Tanjong Pagar
 third_nav_title: Centres of Commerce
+variant: markdown
 ---
 Until the latter part of the 19th century, most of Singapore’s shipping activities were centred around the mouth of the Singapore River. By the 1850s, the river was congested with shipping traffic, and a new port was necessary to cater to the increasing trade.
 
@@ -11,9 +12,9 @@ New Harbour, now known as Keppel Harbour, had been in use by local and regional 
 Keppel Harbour remains a mainstay of shipping activity in Singapore today.
 <p></p>
 
-<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg">
 
-<img alt="Entrance to New Harbour, 1890s" src="/images/centres-of-commerce/sub3-1-entrance-to-new-harbour_400w.jpg" width="1000" height="773" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-1-entrance-to-new-harbour_400w.jpg 400w, /images/centres-of-commerce/Sub3-1-entrance-to-new-harbour_1000w.jpg 1000w">
+<img alt="Entrance to New Harbour, 1890s" src="/images/centres-of-commerce/sub3-1-entrance-to-new-harbour_400w.jpg">
 <div class="custom-caption">
 <div><p>Entrance to New Harbour, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -23,18 +24,18 @@ In the first half of the 19th century, the mouth of the Singapore River function
 <p></p>
 <hr>
 
-<img alt="P&O Wharf at New Harbour, c. 1900" src="/images/centres-of-commerce/sub3-2-pno-wharf-at-new-harbour-rz_400w.jpg" width="1000" height="656" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz_400w.jpg 400w, /images/centres-of-commerce/Sub3-2-pno-wharf-at-new-harbour-rz_1000w.jpg 1000w">
+<img alt="P&amp;O Wharf at New Harbour, c. 1900" src="/images/centres-of-commerce/sub3-2-pno-wharf-at-new-harbour-rz_400w.jpg">
 <div class="custom-caption">
 <div><p>P&amp;O Wharf at New Harbour, c. 1900</p></div>
 <div>Courtesy of National Archives of Singapore</div>
-<div>19980005914 – 0040</div>
+<div>19980005914&nbsp;– 0040</div>
 </div>
 The Peninsular &amp; Oriental Steam Navigation Company (P&amp;O) opened a wharf at New Harbour in 1852. The wharf was ideal for ocean shipping, while the Singapore River continued to be used for coastal boats. Soon after, other wharves, warehouses, and coal stores opened up in the area, turning New Harbour into a bustling port. It was renamed Keppel Harbour in 1900 after Henry Keppel, who surveyed the area in 1848 and recommended it as an alternative shipping site.
 <p></p>
 <p></p>
 <hr>
 
-<img alt="Vessels being repaired in Victoria Dock, 1890s" src="/images/centres-of-commerce/sub3-3-vessels-being-repaired-in-victoria-dock_400w.jpg" width="1000" height="778" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock_400w.jpg 400w, /images/centres-of-commerce/Sub3-3-vessels-being-repaired-in-victoria-dock_1000w.jpg 1000w">
+<img alt="Vessels being repaired in Victoria Dock, 1890s" src="/images/centres-of-commerce/sub3-3-vessels-being-repaired-in-victoria-dock_400w.jpg">
 <div class="custom-caption">
 <div><p>Vessels being repaired at Victoria Dock, 1890s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -44,7 +45,7 @@ In 1864, Tanjong Pagar Dock Company was formed to construct a dry dock at New Ha
 <p></p>
 <hr>
 
-<img alt="Ship docked at wharf of Tanjong Pagar Dock Company, c. 1910" src="/images/centres-of-commerce/sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_400w.jpg" width="1000" height="617" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_400w.jpg 400w, /images/centres-of-commerce/Sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_1000w.jpg 1000w">
+<img alt="Ship docked at wharf of Tanjong Pagar Dock Company, c. 1910" src="/images/centres-of-commerce/sub3-4-ship-docked-at-wharf-of-tanjong-pagar-dock-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Ship docked at wharf of Tanjong Pagar Dock Company, c. 1910</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -55,17 +56,17 @@ By 1899, the Tanjong Pagar Dock Company owned the entire wharf frontage of New H
 <p></p>
 <hr>
 
-<img alt="Tanjong Pagar Wharf, 1900s" src="/images/centres-of-commerce/sub3-5-tanjong-pagar-wharf-rz_400w.jpg" width="1000" height="708" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz_400w.jpg 400w, /images/centres-of-commerce/Sub3-5-tanjong-pagar-wharf-rz_1000w.jpg 1000w">
+<img alt="Tanjong Pagar Wharf, 1900s" src="/images/centres-of-commerce/sub3-5-tanjong-pagar-wharf-rz_400w.jpg">
 <div class="custom-caption">
 <div><p>Tanjong Pagar Wharf, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
-<div>19980005914 – 0034</div>
+<div>19980005914&nbsp;– 0034</div>
 </div>
 <p></p>
 <p></p>
 <hr>
 
-<img alt="Boustead Institute, c. 1902" src="/images/centres-of-commerce/sub3-6-boustead-institute-cr_400w.jpg" width="1000" height="641" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/centres-of-commerce/Sub3-6-boustead-institute-cr_400w.jpg 400w, /images/centres-of-commerce/Sub3-6-boustead-institute-cr_1000w.jpg 1000w">
+<img alt="Boustead Institute, c. 1902" src="/images/centres-of-commerce/sub3-6-boustead-institute-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Boustead Institute, c. 1902</p></div>
 <div>Courtesy of National Archives of Singapore</div>

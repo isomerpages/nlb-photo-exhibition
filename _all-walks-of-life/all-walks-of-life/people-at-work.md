@@ -3,15 +3,16 @@ title: People at Work
 permalink: /memories-of-two-cities-singapore/all-walks-of-life/people-at-work/
 breadcrumb: People at Work
 third_nav_title: All Walks of Life
+variant: markdown
 ---
 The founding of Singapore as a British trading port in 1819 led to an influx of immigrants from China, India and the Malay Archipelago, who came in search of work opportunities arising from the colony’s rapid growth. People of different trades and socio-economic status arrived, from administrators and merchants, to peddlers and labourers.
 
 A large number of migrants from China and India arrived as labourers, providing the much-needed labour in building construction, agriculture, shipping and other industries on the island. Others came as merchants, shopkeepers and moneylenders. Among the indigenous Malays and their fellows from the region, many worked as fishermen, farmers, artisans, traders, and more. The Europeans came as administrators and merchants, working in government offices, banks and trading houses. They were often assisted by English-educated locals. The following images show people, who contributed to the development of early Singapore, at work.&nbsp;
 
 <p></p>
-<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg">
 
-<img alt="Chinese coolies, 1900s" src="/images/all-walks-of-life/sub1-1-chinese-coolies_400w.jpg" width="1000" height="798" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/all-walks-of-life/Sub1-1-chinese-coolies_400w.jpg 400w, /images/all-walks-of-life/Sub1-1-chinese-coolies_1000w.jpg 1000w">
+<img alt="Chinese coolies, 1900s" src="/images/all-walks-of-life/sub1-1-chinese-coolies_400w.jpg">
 <div class="custom-caption">
 <div><p>Chinese coolies, 1900s</p></div>
 <div>Boden-Kloss Collection, courtesy of National Archives of Singapore</div>
@@ -22,30 +23,28 @@ Many&nbsp;impoverished Chinese migrants came to Singapore in the 19th century to
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-2-tamil-coolies-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-2-tamil-coolies-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="659" width="1000" src="/images/all-walks-of-life/sub1-2-tamil-coolies-cr_400w.jpg" alt="Tamil coolies, 1880s">
-<div class="custom-caption">
+<img sizes="(max-width: 400px) 40vw, 100vw" height="659" width="1000" src="/images/all-walks-of-life/sub1-2-tamil-coolies-cr_400w.jpg" alt="Tamil coolies, 1880s">
 <div><p>Tamil coolies, 1880s</p></div>
 <div>Morgan Betty Bassett Collection, courtesy of National Archives of Singapore </div>
 <div>20090000101 – 0011</div>
-</div>
+
 Originating from South India, Tamil coolies came to Singapore during the 19th century and generally worked at the docks or built railway lines. In addition, Singapore also received Indian convicts, mainly from Bengal, Madras and Bombay, who served out their sentences while working as labourers. These convicts were a source of cheap labour needed for the construction of public roads, bridges and key public buildings in the early days.
 <p></p>
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-3-samsui-women_400w.jpg 400w, /images/all-walks-of-life/Sub1-3-samsui-women_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="672" width="1000" src="/images/all-walks-of-life/sub1-3-samsui-women_400w.jpg" alt="Samsui women, 1952">
-<div class="custom-caption">
+<img sizes="(max-width: 400px) 40vw, 100vw" height="672" width="1000" src="/images/all-walks-of-life/sub1-3-samsui-women_400w.jpg" alt="Samsui women, 1952">
 <div><p>Samsui women, 1952</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19990003437 - 0033</div>
-</div>
+
 Samsui women, with their trademark red headdress, were female migrant workers mainly from Sanshui county in Guangdong province, China. They arrived in Singapore from the 1930s in search of employment. Many found work as general labourers in the construction industry, at tin mines and rubber estates.
 <p></p>
 <p></p>
 <hr>
 
 
-<img srcset="/images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_400w.jpg 400w, /images/all-walks-of-life/Sub1-4-samsui-women-having-a-meal_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="670" width="1000" src="/images/all-walks-of-life/sub1-4-samsui-women-having-a-meal_400w.jpg" alt="Samsui women having a meal at the worksite, 1954">
+<img sizes="(max-width: 400px) 40vw, 100vw" height="670" width="1000" src="/images/all-walks-of-life/sub1-4-samsui-women-having-a-meal_400w.jpg" alt="Samsui women having a meal at the worksite, 1954">
 <div class="custom-caption">
 <div><p>Samsui women having a meal at the worksite, 1954</p></div>
 <div>MITA Collection, courtesy of National Archives of Singapore</div>
@@ -55,7 +54,7 @@ Samsui women, with their trademark red headdress, were female migrant workers ma
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-5-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-5-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="674" width="1000" src="/images/all-walks-of-life/sub1-5-street-hawkers-cr_400w.jpg" alt="Street hawkers, 1910s">
+<img sizes="(max-width: 400px) 40vw, 100vw" height="674" width="1000" src="/images/all-walks-of-life/sub1-5-street-hawkers-cr_400w.jpg" alt="Street hawkers, 1910s">
 <div class="custom-caption">
 <div><p>Street hawkers, 1910s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Archives of Singapore</div>
@@ -66,7 +65,7 @@ Working as an itinerant street hawker was a common occupation among unskilled ea
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-6-street-hawkers-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-6-street-hawkers-cr_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="642" width="1000" src="/images/all-walks-of-life/sub1-6-street-hawkers-cr_400w.jpg" alt="Street Hawkers, 1920s">
+<img sizes="(max-width: 400px) 40vw, 100vw" height="642" width="1000" src="/images/all-walks-of-life/sub1-6-street-hawkers-cr_400w.jpg" alt="Street Hawkers, 1920s">
 <div class="custom-caption">
 <div><p>Street Hawkers, 1920s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -77,7 +76,7 @@ Hawkers were frequently found along busy streets and intersections peddling cook
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-7-satay-hawker-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-7-satay-hawker-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1045" width="700" src="/images/all-walks-of-life/sub1-7-satay-hawker-cr_400w.jpg" alt="Satay hawker, 1900s">
+<img sizes="(max-width: 400px) 40vw, 70vw" height="1045" width="700" src="/images/all-walks-of-life/sub1-7-satay-hawker-cr_400w.jpg" alt="Satay hawker, 1900s">
 <div class="custom-caption">
 <div><p>Satay hawker, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -88,7 +87,7 @@ The Malay satay man, with his portable charcoal grill, was common in Singapore u
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr_400w.jpg 400w, /images/all-walks-of-life/Sub1-8-hawker-selling-snacks-cr.jpg 700w" sizes="(max-width: 400px) 40vw, 70vw" height="1057" width="700" src="/images/all-walks-of-life/sub1-8-hawker-selling-snacks-cr_400w.jpg" alt="Hawker selling snacks, 1900s">
+<img sizes="(max-width: 400px) 40vw, 70vw" height="1057" width="700" src="/images/all-walks-of-life/sub1-8-hawker-selling-snacks-cr_400w.jpg" alt="Hawker selling snacks, 1900s">
 <div class="custom-caption">
 <div><p>Hawker selling snacks, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -100,7 +99,7 @@ Indian hawkers who sold snacks often carried a basket containing their wares on 
 <hr>
 
 
-<img srcset="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg 400w, /images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_1000w.jpg 1000w" sizes="(max-width: 400px) 40vw, 100vw" height="774" width="1000" src="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg" alt="Workers at a pepper plantation, 1890s">
+<img src="/images/all-walks-of-life/sub1-10-workers-at-a-pepper-plantation_400w.jpg" alt="Workers at a pepper plantation, 1890s">
 <div class="custom-caption">
 <div><p>Workers at a pepper plantation, 1890s</p></div>
 <div>Gretchen Liu Collection, courtesy of National Archives of Singapore</div>
@@ -122,7 +121,7 @@ In the past, Singapore was known to have many fishing villages, mostly located a
 <p></p>
 <hr>
 
-<img srcset="/images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society_400w.jpg 400w, /images/all-walks-of-life/Sub1-12-staff-of-the-netherlands-trading-society.jpg 958w" sizes="(max-width: 400px) 40vw, 95vw" height="722" width="958" src="/images/all-walks-of-life/sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925">
+<img src="/images/all-walks-of-life/sub1-12-staff-of-the-netherlands-trading-society_400w.jpg" alt="Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925">
 <div class="custom-caption">
 <div><p>Offices of Netherlands Trading Society, Cecil Street, Singapore, c. 1925</p></div>
 <div>Collection ABN AMRO Art &amp; History Department, Amsterdam, courtesy of National Archives of Singapore</div>

@@ -3,25 +3,26 @@ title: Seats of Power
 permalink: /memories-of-two-cities-singapore/places-of-power-and-worship/seats-of-power/
 breadcrumb: Seats of Power
 third_nav_title: Places of Power and Worship
+variant: markdown
 ---
 Singapore’s past kingdoms and empires have left their marks on the island over its 700 years of history. However, with development after the arrival of the British in the early 19th century, the traces of pre-colonial rulers were mostly lost.
 
 The ancient palace grounds Bukit Larangan (‘Forbidden Hill’ in Malay, now Fort Canning Hill) had long been exclusive to the royalty and was a symbol of power. Sir Stamford Raffles built a bungalow on the hill in 1822, which eventually became Government House – the official residence of colonial governors. A new Government House was erected in the vicinity of Orchard Road in 1869. Meanwhile, the Malay royalty resided in Singapore at the Istana (‘palace’ in Malay) in Kampong Glam. Being seats of authority or royal households, these buildings were remarkable in both architectural features and historical significance.
 <p></p>
-<img alt="A horizontal page divider graphic." src="/images/partition.jpg" width="1300" height="169">
+<img alt="A horizontal page divider graphic." src="/images/partition.jpg">
 
-<img alt="Fort Canning Entrance, 1925" src="/images/power-and-worship/sub1-1-fort-canning-entrance-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-1-fort-canning-entrance-cr_400w.jpg 400w, /images/power-and-worship/Sub1-1-fort-canning-entrance-cr_1000w.jpg 1000w">
+<img alt="Fort Canning Entrance, 1925" src="/images/power-and-worship/sub1-1-fort-canning-entrance-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Fort Canning Entrance, 1925</p></div>
 <div>Courtesy of National Archives of Singapore</div>
 <div>19980005063 – 0116</div>
 </div>
-Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Government Hill, was a landmark in Singapore&#39;s earliest recorded history. It is believed to be the site of a palace for Malay royalty and a burial ground for ancient kings. Sir Stamford Raffles built a bungalow on the hill in 1822, which became known as Government House and was the residence of subsequent colonial governors until the 1850s, when the Fort was built. The entrance to Fort Canning consisted of a main gate with a distinctive Gothic archway located at the north side of the hill. 
+Fort Canning Hill, previously known as Bukit Larangan (Forbidden Hill) and Government Hill, was a landmark in Singapore's earliest recorded history. It is believed to be the site of a palace for Malay royalty and a burial ground for ancient kings. Sir Stamford Raffles built a bungalow on the hill in 1822, which became known as Government House and was the residence of subsequent colonial governors until the 1850s, when the Fort was built. The entrance to Fort Canning consisted of a main gate with a distinctive Gothic archway located at the north side of the hill. 
 <p></p>
 <p></p>
 <hr>
 
-<img alt="Bunker at Fort Canning, 1925" src="/images/power-and-worship/sub1-2-bunker-at-fort-canning-cr_400w.jpg" width="1000" height="725" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_400w.jpg 400w, /images/power-and-worship/Sub1-2-bunker-at-fort-canning-cr_1000w.jpg 1000w">
+<img alt="Bunker at Fort Canning, 1925" src="/images/power-and-worship/sub1-2-bunker-at-fort-canning-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Bunker at Fort Canning, 1925</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -32,7 +33,7 @@ Fort Canning was one of Singapore’s first British-built fortifications. Its pu
 <p></p>
 <hr>
 
-<img alt="View from Fort Canning Hill, 1870s" src="/images/power-and-worship/sub1-3-view-of-town-from-fort-canning-hill_400w.jpg" width="1000" height="772" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_400w.jpg 400w, /images/power-and-worship/Sub1-3-view-of-town-from-fort-canning-hill_1000w.jpg 1000w">
+<img alt="View from Fort Canning Hill, 1870s" src="/images/power-and-worship/sub1-3-view-of-town-from-fort-canning-hill_400w.jpg">
 <div class="custom-caption">
 <div><p>View from Fort Canning Hill, 1870s</p></div>
 <div>Lee Kip Lin Collection, courtesy of National Library Board</div>
@@ -42,7 +43,7 @@ Fort Canning Hill commanded a panoramic view of Singapore town as seen from this
 <p></p>
 <hr>
 
-<img alt="Government House, 1900s" src="/images/power-and-worship/sub1-5-government-house_400w.jpg" width="1000" height="633" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-5-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-5-government-house_1000w.jpg 1000w">
+<img alt="Government House, 1900s" src="/images/power-and-worship/sub1-5-government-house_400w.jpg">
 <div class="custom-caption">
 <div><p>Government House, 1900s</p></div>
 <div>Courtesy of National Archives of Singapore</div>
@@ -53,7 +54,7 @@ After the old Government House on Government Hill (now Fort Canning Hill) was de
 <p></p>
 <hr>
 
-<img alt="Government House, 1899" src="/images/power-and-worship/sub1-7-government-house_400w.jpg" width="1000" height="779" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-7-government-house_400w.jpg 400w, /images/power-and-worship/Sub1-7-government-house_1000w.jpg 1000w">
+<img alt="Government House, 1899" src="/images/power-and-worship/sub1-7-government-house_400w.jpg">
 <div class="custom-caption">
 <div><p>Government House, 1899</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
@@ -63,14 +64,14 @@ Set in expansive, beautifully landscaped grounds, the Government House was desig
 <p></p>
 <hr>
 
-<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-10-istana-kampong-glam-cr_400w.jpg" width="1000" height="707" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-10-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-10-istana-kampong-glam-cr_1000w.jpg 1000w">
+<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-10-istana-kampong-glam-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
 </div>
 <hr>
 
-<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-11-istana-kampong-glam-cr_400w.jpg" width="1000" height="720" sizes="(max-width: 400px) 40vw, 100vw" srcset="/images/power-and-worship/Sub1-11-istana-kampong-glam-cr_400w.jpg 400w, /images/power-and-worship/Sub1-11-istana-kampong-glam-cr_1000w.jpg 1000w">
+<img alt="Istana Kampong Glam, 1960s" src="/images/power-and-worship/sub1-11-istana-kampong-glam-cr_400w.jpg">
 <div class="custom-caption">
 <div><p>Istana Kampong Glam, 1960s</p></div>
 <div>Lee Kip Lin Collection, National Library Singapore</div>
