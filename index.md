@@ -31,7 +31,7 @@ sections:
       image: /images/china-exhibition-home.png
       alt: A city and wedding couple
       button: Find Out More
-notification: ""
+notification: Ending on 30 November 2024
 description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly
   presented by the Capital Library of China and the National Library of
   Singapore, signifying the goodwill and partnership between the two
