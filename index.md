@@ -5,6 +5,7 @@ permalink: /
 sections:
   - hero:
       background: /images/memories-of-two-cities-1080p.jpg
+      variant: center
   - infopic:
       title: Memories of Two Cities - Singapore
       description: Singapore has a long history that dates back more than 700 years
@@ -31,7 +32,7 @@ sections:
       image: /images/china-exhibition-home.png
       alt: A city and wedding couple
       button: Find Out More
-notification: ""
+notification: ENDING ON 22 NOVEMBER 2024
 description: '"‘Memories of Two Cities’ is a pictorial exhibition jointly
   presented by the Capital Library of China and the National Library of
   Singapore, signifying the goodwill and partnership between the two
